@@ -135,4 +135,12 @@ Normandy Park, WA, 2010. Dispon{\'\i}vel em:
 {WING, J. Computational thinking and thinking about computing.
 v.~366, p. 3717--25, 11 2008.}
 
+\bibitem[Wing 2010]{Wing2010}
+\abntrefinfo{Wing}{WING}{2010}
+{WING, J. {Computational Thinking: What and Why?}
+\emph{thelink - The Magaizne of the Varnegie Mellon University School of
+  Computer Science}, n. March 2006, p.~1--6, 2010.
+Dispon{\'\i}vel em:
+  \url{http://www.cs.cmu.edu/link/research-notebook-computational-thinking-what-and-why}.}
+
 \end{thebibliography}
