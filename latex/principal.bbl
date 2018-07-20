@@ -117,6 +117,14 @@ Dispon{\'\i}vel em: \url{http://wiki.loa-cnr.it/Papers/OntLev.pdf}. Acesso em:
   of information systems.
 \emph{Future Computing Systems}, v.~1, n.~1, p. 71--97, 1986.}
 
+\bibitem[Weintrop et al. 2016]{weintrop}
+\abntrefinfo{Weintrop et al.}{WEINTROP et al.}{2016}
+{WEINTROP, D. et al. {Defining Computational Thinking for Mathematics and
+  Science Classrooms}.
+\emph{Journal of Science Education and Technology}, Springer Netherlands,
+  v.~25, n.~1, p. 127--147, 2016.
+ISSN 15731839.}
+
 \bibitem[Wilson e Madsen 2010]{memoir}
 \abntrefinfo{Wilson e Madsen}{WILSON; MADSEN}{2010}
 {WILSON, P.; MADSEN, L. \emph{The Memoir Class for Configurable Typesetting -
@@ -138,8 +146,8 @@ v.~366, p. 3717--25, 11 2008.}
 \bibitem[Wing 2010]{Wing2010}
 \abntrefinfo{Wing}{WING}{2010}
 {WING, J. {Computational Thinking: What and Why?}
-\emph{thelink - The Magaizne of the Varnegie Mellon University School of
-  Computer Science}, n. March 2006, p.~1--6, 2010.
+\emph{thelink - The Magaizne of the Carnegie Mellon University School of
+  Computer Science}, p.~1--6, 2010.
 Dispon{\'\i}vel em:
   \url{http://www.cs.cmu.edu/link/research-notebook-computational-thinking-what-and-why}.}
 

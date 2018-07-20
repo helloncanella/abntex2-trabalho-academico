@@ -3,7 +3,7 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: principal.aux
 A level-1 auxiliary file: elementos-textuais/introducao.aux
 A level-1 auxiliary file: elementos-textuais/capitulo-1.aux
-A level-1 auxiliary file: elementos-textuais/capitulo-3.aux
+A level-1 auxiliary file: elementos-textuais/pensamento-computacional.aux
 A level-1 auxiliary file: elementos-textuais/capitulo-2.aux
 The style file: abntex2-alf.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -26,44 +26,44 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 21 entries,
+You've used 22 entries,
             6714 wiz_defined-function locations,
-            1330 strings with 12736 characters,
-and the built_in function-call counts, 23585 in all, are:
-= -- 2779
-> -- 324
-< -- 540
-+ -- 685
-- -- 102
-* -- 1447
-:= -- 2934
-add.period$ -- 92
-call.type$ -- 21
-change.case$ -- 156
-chr.to.int$ -- 37
-cite$ -- 20
-duplicate$ -- 2220
-empty$ -- 1196
-format.name$ -- 480
-if$ -- 4938
+            1339 strings with 13035 characters,
+and the built_in function-call counts, 24586 in all, are:
+= -- 2853
+> -- 366
+< -- 543
++ -- 701
+- -- 114
+* -- 1527
+:= -- 3066
+add.period$ -- 96
+call.type$ -- 22
+change.case$ -- 170
+chr.to.int$ -- 41
+cite$ -- 21
+duplicate$ -- 2268
+empty$ -- 1259
+format.name$ -- 541
+if$ -- 5174
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 327
-newline$ -- 110
-num.names$ -- 76
-pop$ -- 358
+missing$ -- 345
+newline$ -- 116
+num.names$ -- 81
+pop$ -- 377
 preamble$ -- 1
-purify$ -- 68
+purify$ -- 73
 quote$ -- 0
-skip$ -- 2299
+skip$ -- 2349
 stack$ -- 1
-substring$ -- 1054
-swap$ -- 836
-text.length$ -- 23
+substring$ -- 1104
+swap$ -- 864
+text.length$ -- 25
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 6
 warning$ -- 0
-while$ -- 120
+while$ -- 129
 width$ -- 0
-write$ -- 333
+write$ -- 351

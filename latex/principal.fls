@@ -142,8 +142,8 @@ INPUT elementos-textuais/introducao.aux
 INPUT elementos-textuais/introducao.aux
 INPUT elementos-textuais/capitulo-1.aux
 INPUT elementos-textuais/capitulo-1.aux
-INPUT elementos-textuais/capitulo-3.aux
-INPUT elementos-textuais/capitulo-3.aux
+INPUT elementos-textuais/pensamento-computacional.aux
+INPUT elementos-textuais/pensamento-computacional.aux
 INPUT elementos-textuais/capitulo-2.aux
 INPUT elementos-textuais/capitulo-2.aux
 OUTPUT principal.aux
@@ -265,9 +265,9 @@ INPUT ./imagens/abntex2-modelo-img-grafico.pdf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmr17.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
-OUTPUT elementos-textuais/capitulo-3.aux
-INPUT elementos-textuais/capitulo-3.tex
-INPUT elementos-textuais/capitulo-3.tex
+OUTPUT elementos-textuais/pensamento-computacional.aux
+INPUT elementos-textuais/pensamento-computacional.tex
+INPUT elementos-textuais/pensamento-computacional.tex
 OUTPUT elementos-textuais/capitulo-2.aux
 INPUT elementos-textuais/capitulo-2.tex
 INPUT elementos-textuais/capitulo-2.tex
@@ -296,8 +296,8 @@ INPUT elementos-textuais/introducao.aux
 INPUT elementos-textuais/introducao.aux
 INPUT elementos-textuais/capitulo-1.aux
 INPUT elementos-textuais/capitulo-1.aux
-INPUT elementos-textuais/capitulo-3.aux
-INPUT elementos-textuais/capitulo-3.aux
+INPUT elementos-textuais/pensamento-computacional.aux
+INPUT elementos-textuais/pensamento-computacional.aux
 INPUT elementos-textuais/capitulo-2.aux
 INPUT elementos-textuais/capitulo-2.aux
 INPUT ./principal.brf
