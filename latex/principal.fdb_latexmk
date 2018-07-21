@@ -1,5 +1,5 @@
 # Fdb version 3
-["bibtex principal"] 1532052034 "principal.aux" "principal.bbl" "principal" 1532057588
+["bibtex principal"] 1532052034 "principal.aux" "principal.bbl" "principal" 1532136278
   "/usr/local/texlive/2018/texmf-dist/bibtex/bib/abntex2/abntex2-options.bib" 1480098425 5396 4eb260dac60f150ae608d45252853090 ""
   "/usr/local/texlive/2018/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst" 1480098433 60064 6469892b646cc99dbd8ecd5e965537d8 ""
   "elementos-postextuais/referencias.bib" 1532048247 17627 926978d01c266ced6abad546d8eee3a1 ""
@@ -11,12 +11,12 @@
   (generated)
   "principal.bbl"
   "principal.blg"
-["makeindex principal.idx"] 1532050048 "principal.idx" "principal.ind" "principal" 1532057588
+["makeindex principal.idx"] 1532050048 "principal.idx" "principal.ind" "principal" 1532136278
   "principal.idx" 1532057588 978 0e6d15757eabe136b6b38c1b71e443d3 ""
   (generated)
-  "principal.ilg"
   "principal.ind"
-["pdflatex"] 1532057586 "/Users/helloncanella/Dropbox/monografia/latex/principal.tex" "principal.pdf" "principal" 1532057588
+  "principal.ilg"
+["pdflatex"] 1532057586 "/Users/helloncanella/Dropbox/monografia/latex/principal.tex" "principal.pdf" "principal" 1532136278
   "/Users/helloncanella/Dropbox/monografia/latex/principal.tex" 1532048358 7860 3908f65b6b069a3bcbc2587b09b16918 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1480098668 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc" 1480098668 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
@@ -192,16 +192,16 @@
   "principal.tex" 1532048358 7860 3908f65b6b069a3bcbc2587b09b16918 ""
   "principal.toc" 1532057588 8740 8b9f7d693748c656fe115f8d06d703f4 ""
   (generated)
-  "principal.lof"
-  "elementos-textuais/introducao.aux"
+  "principal.log"
   "principal.aux"
-  "principal.pdf"
-  "elementos-textuais/capitulo-1.aux"
-  "principal.idx"
   "principal.brf"
-  "principal.lot"
+  "principal.pdf"
+  "principal.idx"
+  "elementos-textuais/capitulo-1.aux"
+  "elementos-textuais/pensamento-computacional.aux"
+  "principal.toc"
   "elementos-textuais/capitulo-2.aux"
   "principal.nlo"
-  "principal.toc"
-  "elementos-textuais/pensamento-computacional.aux"
-  "principal.log"
+  "principal.lof"
+  "elementos-textuais/introducao.aux"
+  "principal.lot"
