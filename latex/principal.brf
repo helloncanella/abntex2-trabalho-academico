@@ -34,5 +34,8 @@
 \backcite {abntex2cite}{{34}{1.16}{section.1.16}}
 \backcite {abntex2cite-alf}{{34}{1.16}{section.1.16}}
 \backcite {weintrop}{{36}{2.1}{section.2.1}}
-\backcite {Wing2010}{{36}{2.1}{section.2.1}}
-\backcite {NBR14724:2005}{{40}{3.4}{section*.25}}
+\backcite {wing2006}{{36}{2.1}{section.2.1}}
+\backcite {wing2006}{{36}{2.1}{section.2.1}}
+\backcite {wing2008}{{37}{2.1}{section.2.1}}
+\backcite {Wing2010}{{37}{2.1}{Item.20}}
+\backcite {NBR14724:2005}{{41}{3.4}{section*.25}}
