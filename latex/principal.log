@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  27 JUL 2018 21:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  28 JUL 2018 00:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1120,8 +1120,8 @@ Overfull \hbox (6.91217pt too wide) in paragraph at lines 709--712
 
 
 
-]) [37]
-[38
+] [37])
+[38] [39
 
 
 ]
@@ -1135,7 +1135,7 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 9.
-) [39
+) [40
 
 
 ]
@@ -1144,7 +1144,7 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 \openout6 = `principal.brf'.
 
 
-[40
+[41
 
 
 ]
@@ -1153,35 +1153,35 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
 bibitemlist
-[41
+[42
 
-]) (./elementos-postextuais/apendices.tex [42]
+]) (./elementos-postextuais/apendices.tex [43]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 10.
 
-[43
+[44
 
 
-] [44
+] [45
 
-]) (./elementos-postextuais/anexos.tex [45
+]) (./elementos-postextuais/anexos.tex [46
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 10.
 
-[46
+[47
 
-
-] [47
 
 ] [48
 
-]) (./principal.ind [49
+] [49
 
-] [50
+]) (./principal.ind [50
+
+] [51
 
 
 
@@ -1205,7 +1205,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
 Package rerunfilecheck Info: File `principal.brf' has not changed.
-(rerunfilecheck)             Checksum: 12094D530D16B6DA8CD6D9609296D30E;2078.
+(rerunfilecheck)             Checksum: F49A22E7E8B52CFA27E6ACB58889BBD3;2123.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1213,9 +1213,9 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 15921 strings out of 492649
- 239753 string characters out of 6129623
- 512679 words of memory out of 5000000
+ 15922 strings out of 492649
+ 239760 string characters out of 6129623
+ 512704 words of memory out of 5000000
  19123 multiletter control sequences out of 15000+600000
  109475 words of font info for 157 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1242,10 +1242,10 @@ s/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
 public/lm/lmsso12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm
 /lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy8.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on principal.pdf (51 pages, 692203 bytes).
+Output written on principal.pdf (52 pages, 693476 bytes).
 PDF statistics:
- 1065 PDF objects out of 1200 (max. 8388607)
- 954 compressed objects within 10 object streams
- 204 named destinations out of 1000 (max. 500000)
+ 1072 PDF objects out of 1200 (max. 8388607)
+ 960 compressed objects within 10 object streams
+ 205 named destinations out of 1000 (max. 500000)
  37923 words of extra memory for PDF output out of 42996 (max. 10000000)
 
