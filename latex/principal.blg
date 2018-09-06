@@ -17,8 +17,6 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: elementos-postextuais/referencias.bib
-Warning--entry type for "biocomputer" isn't style-file defined
---line 14 of file elementos-postextuais/referencias.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
@@ -28,45 +26,44 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 23 entries,
+You've used 20 entries,
             6714 wiz_defined-function locations,
-            1345 strings with 13279 characters,
-and the built_in function-call counts, 27405 in all, are:
-= -- 3250
-> -- 381
-< -- 660
-+ -- 823
-- -- 119
-* -- 1681
-:= -- 3390
-add.period$ -- 101
-call.type$ -- 23
-change.case$ -- 176
-chr.to.int$ -- 42
-cite$ -- 22
-duplicate$ -- 2644
-empty$ -- 1317
-format.name$ -- 564
-if$ -- 5672
+            1323 strings with 12518 characters,
+and the built_in function-call counts, 21386 in all, are:
+= -- 2489
+> -- 309
+< -- 457
++ -- 599
+- -- 97
+* -- 1320
+:= -- 2675
+add.period$ -- 88
+call.type$ -- 20
+change.case$ -- 149
+chr.to.int$ -- 36
+cite$ -- 19
+duplicate$ -- 1941
+empty$ -- 1141
+format.name$ -- 457
+if$ -- 4542
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 361
-newline$ -- 121
-num.names$ -- 86
-pop$ -- 396
+missing$ -- 310
+newline$ -- 104
+num.names$ -- 71
+pop$ -- 339
 preamble$ -- 1
-purify$ -- 76
+purify$ -- 65
 quote$ -- 0
-skip$ -- 2731
+skip$ -- 2024
 stack$ -- 1
-substring$ -- 1239
-swap$ -- 992
-text.length$ -- 26
+substring$ -- 940
+swap$ -- 738
+text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 6
 warning$ -- 0
-while$ -- 136
+while$ -- 110
 width$ -- 0
-write$ -- 366
-(There was 1 warning)
+write$ -- 316
