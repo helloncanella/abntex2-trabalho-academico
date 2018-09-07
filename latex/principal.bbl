@@ -96,6 +96,14 @@ Dispon{\'\i}vel em:
   \url{http://mirrors.ctan.org/macros/latex/contrib/glossaries/glossaries-user.pdf}.
   Acesso em: 11 mar. 2013.}
 
+\bibitem[Djorgovski 2005]{Djorgovski2005}
+\abntrefinfo{Djorgovski}{DJORGOVSKI}{2005}
+{DJORGOVSKI, S. {Virtual Astronomy, Information Technology, and the New
+  Scientific Methodology}.
+\emph{Seventh International Workshop on Computer Architecture for Machine
+  Perception (CAMP'05)}, p. 125--132, 2005.
+Dispon{\'\i}vel em: \url{http://ieeexplore.ieee.org/document/1508175/}.}
+
 \bibitem[Guarino 1995]{guarino1995}
 \abntrefinfo{Guarino}{GUARINO}{1995}
 {GUARINO, N. The ontological level.
@@ -116,6 +124,14 @@ Dispon{\'\i}vel em: \url{http://wiki.loa-cnr.it/Papers/OntLev.pdf}. Acesso em:
 {{van} GIGCH, J.~P.; PIPINO, L.~L. In search for a paradigm for the discipline
   of information systems.
 \emph{Future Computing Systems}, v.~1, n.~1, p. 71--97, 1986.}
+
+\bibitem[Weintrop et al. 2016]{Weintrop2016}
+\abntrefinfo{Weintrop et al.}{WEINTROP et al.}{2016}
+{WEINTROP, D. et al. {Defining Computational Thinking for Mathematics and
+  Science Classrooms}.
+\emph{Journal of Science Education and Technology}, Springer Netherlands,
+  v.~25, n.~1, p. 127--147, 2016.
+ISSN 15731839.}
 
 \bibitem[Wilson e Madsen 2010]{memoir}
 \abntrefinfo{Wilson e Madsen}{WILSON; MADSEN}{2010}
