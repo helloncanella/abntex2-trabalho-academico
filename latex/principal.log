@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  8 SEP 2018 00:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  10 SEP 2018 00:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1120,8 +1120,14 @@ Overfull \hbox (6.91217pt too wide) in paragraph at lines 709--712
 
 
 
-]) [37]
-[38
+]
+Overfull \hbox (7.72249pt too wide) in paragraph at lines 32--33
+[]\T1/lmr/m/n/12 (-20) Em li-nhas ge-rais, o apren-di-zado de má-quina (do in-g
+lês: \T1/lmr/m/it/12 (-20) ma-chine le-ar-ning\T1/lmr/m/n/12 (-20) ) fundamenta
+-
+ []
+
+) [37] [38
 
 
 ]
@@ -1155,7 +1161,13 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 bibitemlist
 [41
 
-]) (./elementos-postextuais/apendices.tex [42]
+]
+Overfull \hbox (23.59468pt too wide) in paragraph at lines 114--114
+\T1/lmr/m/n/12 (-20) arti^^\cial-[]intelligence-[]heres-[]what-[]you-[]need-[]t
+o-[]know-[]to-[]understand-[]how-[]machines-[]learn-[]72004>[]$[][]. 
+ []
+
+) (./elementos-postextuais/apendices.tex [42]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 10.
@@ -1205,7 +1217,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
 Package rerunfilecheck Info: File `principal.brf' has not changed.
-(rerunfilecheck)             Checksum: 49C9243C4E2E56A63DD5821BB47F910B;2202.
+(rerunfilecheck)             Checksum: F65040723567240DA76528A2E7422C5F;2242.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1213,11 +1225,11 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 15918 strings out of 492649
- 239802 string characters out of 6129623
- 512794 words of memory out of 5000000
- 19120 multiletter control sequences out of 15000+600000
- 109482 words of font info for 158 fonts, out of 8000000 for 9000
+ 15930 strings out of 492649
+ 239944 string characters out of 6129623
+ 512960 words of memory out of 5000000
+ 19129 multiletter control sequences out of 15000+600000
+ 109573 words of font info for 159 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,38p,903b,659s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
@@ -1242,10 +1254,10 @@ s/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
 public/lm/lmsso12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm
 /lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy8.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on principal.pdf (51 pages, 692295 bytes).
+Output written on principal.pdf (51 pages, 694023 bytes).
 PDF statistics:
- 1062 PDF objects out of 1200 (max. 8388607)
- 951 compressed objects within 10 object streams
- 202 named destinations out of 1000 (max. 500000)
+ 1068 PDF objects out of 1200 (max. 8388607)
+ 957 compressed objects within 10 object streams
+ 203 named destinations out of 1000 (max. 500000)
  37915 words of extra memory for PDF output out of 42996 (max. 10000000)
 
