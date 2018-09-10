@@ -127,11 +127,28 @@ Dispon{\'\i}vel em: \url{http://wiki.loa-cnr.it/Papers/OntLev.pdf}. Acesso em:
   c}{\~o}es. Funda{\c c}{\~a}o Intituto Brasileiro de Geografia e
   Estat{\'\i}stica, 1993. Acesso em: 21 ago 2013.}
 
+\bibitem[Pathak et al. 2018]{PhysRevLett.120.024102}
+\abntrefinfo{Pathak et al.}{PATHAK et al.}{2018}
+{PATHAK, J. et al. Model-free prediction of large spatiotemporally chaotic
+  systems from data: A reservoir computing approach.
+\emph{Phys. Rev. Lett.}, American Physical Society, v.~120, p. 024102, Jan
+  2018.
+Dispon{\'\i}vel em:
+  \url{https://link.aps.org/doi/10.1103/PhysRevLett.120.024102}.}
+
 \bibitem[{van} Gigch e Pipino 1986]{van86}
 \abntrefinfo{{van} Gigch e Pipino}{{van} GIGCH; PIPINO}{1986}
 {{van} GIGCH, J.~P.; PIPINO, L.~L. In search for a paradigm for the discipline
   of information systems.
 \emph{Future Computing Systems}, v.~1, n.~1, p. 71--97, 1986.}
+
+\bibitem[Vutha 2018]{Vutha}
+\abntrefinfo{Vutha}{VUTHA}{2018}
+{VUTHA, A. \emph{Could machine learning mean the end of understanding in
+  science?} 2018.
+Dispon{\'\i}vel em:
+  \url{https://theconversation.com/could-machine-learning-mean-the-end-of-understanding-in-science-98995}.
+  Acesso em: 10 de Setembro de 2018.}
 
 \bibitem[Weintrop et al. 2016]{Weintrop2016}
 \abntrefinfo{Weintrop et al.}{WEINTROP et al.}{2016}
