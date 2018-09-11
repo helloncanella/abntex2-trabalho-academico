@@ -17,6 +17,10 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: elementos-postextuais/referencias.bib
+Warning--entry type for "Escobar" isn't style-file defined
+--line 23 of file elementos-postextuais/referencias.bib
+Warning--entry type for "Vutha" isn't style-file defined
+--line 33 of file elementos-postextuais/referencias.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
@@ -26,44 +30,45 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 22 entries,
+You've used 25 entries,
             6714 wiz_defined-function locations,
-            1342 strings with 13123 characters,
-and the built_in function-call counts, 23978 in all, are:
-= -- 2755
-> -- 366
-< -- 507
-+ -- 665
-- -- 114
-* -- 1495
-:= -- 3000
-add.period$ -- 96
-call.type$ -- 22
-change.case$ -- 170
-chr.to.int$ -- 41
-cite$ -- 21
-duplicate$ -- 2164
-empty$ -- 1265
-format.name$ -- 541
-if$ -- 5086
+            1367 strings with 13912 characters,
+and the built_in function-call counts, 31292 in all, are:
+= -- 3735
+> -- 438
+< -- 783
++ -- 964
+- -- 136
+* -- 1913
+:= -- 3850
+add.period$ -- 110
+call.type$ -- 25
+change.case$ -- 196
+chr.to.int$ -- 47
+cite$ -- 24
+duplicate$ -- 3082
+empty$ -- 1433
+format.name$ -- 648
+if$ -- 6426
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 345
-newline$ -- 116
-num.names$ -- 81
-pop$ -- 377
+missing$ -- 395
+newline$ -- 132
+num.names$ -- 96
+pop$ -- 437
 preamble$ -- 1
-purify$ -- 73
+purify$ -- 84
 quote$ -- 0
-skip$ -- 2247
+skip$ -- 3181
 stack$ -- 1
-substring$ -- 1084
-swap$ -- 832
-text.length$ -- 25
+substring$ -- 1412
+swap$ -- 1156
+text.length$ -- 30
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 6
 warning$ -- 0
-while$ -- 129
+while$ -- 150
 width$ -- 0
-write$ -- 351
+write$ -- 399
+(There were 2 warnings)

@@ -33,10 +33,19 @@
 \backcite {NBR14724:2011}{{33}{1.15}{section.1.15}}
 \backcite {abntex2cite}{{34}{1.16}{section.1.16}}
 \backcite {abntex2cite-alf}{{34}{1.16}{section.1.16}}
-\backcite {Djorgovski2005, wing2006}{{36}{2}{chapter.2}}
-\backcite {Djorgovski2005, wing2006}{{36}{2}{chapter.2}}
-\backcite {Djorgovski2005}{{36}{2}{chapter.2}}
-\backcite {Weintrop2016}{{36}{2}{chapter.2}}
-\backcite {Weintrop2016}{{36}{2}{chapter.2}}
-\backcite {Djorgovski2005}{{37}{2}{chapter.2}}
-\backcite {NBR14724:2005}{{41}{3.4}{section*.25}}
+\backcite {Djorgovski2005, wing2006}{{36}{2.1}{section.2.1}}
+\backcite {Djorgovski2005, wing2006}{{36}{2.1}{section.2.1}}
+\backcite {Djorgovski2005}{{36}{2.1}{section.2.1}}
+\backcite {Weintrop2016}{{36}{2.1}{section.2.1}}
+\backcite {Weintrop2016}{{37}{2.1}{section.2.1}}
+\backcite {Djorgovski2005}{{37}{2.1}{section.2.1}}
+\backcite {Djorgovski2005}{{37}{2.1}{section.2.1}}
+\backcite {Escobar}{{37}{2.1}{section.2.1}}
+\backcite {PhysRevLett.120.024102}{{37}{2.1}{section.2.1}}
+\backcite {PhysRevLett.120.024102}{{37}{2.1}{section.2.1}}
+\backcite {Vutha}{{37}{2.1}{section.2.1}}
+\backcite {Vutha}{{37}{2.1}{section.2.1}}
+\backcite {Vutha}{{38}{2.1}{section.2.1}}
+\backcite {araujo2012}{{38}{5}{figure.2.5}}
+\backcite {Vutha}{{38}{2.1}{figure.2.5}}
+\backcite {NBR14724:2005}{{42}{3.4}{section*.25}}
