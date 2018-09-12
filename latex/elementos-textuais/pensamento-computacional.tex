@@ -13,10 +13,10 @@ A evolução da computação nas últimas décadas, aliada ao seu barateamento, 
 % **Enriquecimento das formas de exploração de fenômenos.**
 
 Na academia, esse fenômeno tem favorecido o surgimento de novas estratégias para exploração de fenômenos. Até meados do século 20, todo progresso cientifico foi conduzido apenas por interações entre atividades experimentais e analíticas\footnote{
-Em sentido mais amplo, quando mencionamos `atividade analítica' estamos nos referindo à utilização de aparato matemático para resolução teórica de problemas. Ao mesmo tempo, o termo análise também pode fazer referência ao emprego da análise matemática, ramo da matemática que lida com conceitos do cálculo diferencial, tais como diferenciação, integração, e séries infinitas.}. O surgimento da computação e o seu desenvolvimento desde então trouxe consigo novas formas de fazer ciência, tais como a simulação e a modelagem computacional, e mais recentemente, a mineração de dados e o aprendizado de máquina, úteis para a análise de grande volume de informação. \cite{Djorgovski2005, wing2006} %TODO (cite weintrop, and wing)
+Em sentido mais amplo, quando mencionamos `atividade analítica' estamos nos referindo à utilização de aparato matemático para resolução teórica de problemas. Ao mesmo tempo, o termo análise também pode fazer referência ao emprego da análise matemática, ramo da matemática que lida com conceitos do cálculo diferencial, tais como diferenciação, integração, e séries infinitas.}. O surgimento da computação e o seu desenvolvimento desde então trouxe consigo novas formas de fazer ciência, tais como a simulação e a modelagem computacional, e mais recentemente, a mineração de dados e o aprendizado de máquina, úteis para a análise de grande volume de informação \cite{Djorgovski2005, wing2006}. %TODO (cite weintrop, and wing)
 
 
-O uso de simulações numéricas, por exemplo, se justifica ao permitir que um grande número de fenômenos muito complexos sejam analiticamente tratáveis. Em muitos casos é única forma de exploração possível. Mesmo na mecânica newtoniana mais simples, é possível resolver  exatamente, apenas, o problema de dois corpos. Para $N\geq3$, soluções numéricas são necessárias. Da astronomia podemos retirar alguns exemplos, como a formação de estrelas e galáxias e explosão estrelares - de modo geral, qualquer evento envolvendo turbulência.  \cite[]{Djorgovski2005} %weintrop
+O uso de simulações numéricas, por exemplo, se justifica ao permitir que um grande número de fenômenos muito complexos sejam analiticamente tratáveis. Em muitos casos é única forma de exploração possível. Mesmo na mecânica newtoniana mais simples, é possível resolver  exatamente, apenas, o problema de dois corpos. Para $N\geq3$, soluções numéricas são necessárias. Da astronomia podemos retirar alguns exemplos, como a formação de estrelas e galáxias e explosão estrelares - de modo geral, qualquer evento envolvendo turbulência  \cite[]{Djorgovski2005}. %weintrop
 
 O uso de métodos computacionais, tal como a simulação, tem expandido a abrangência de sistemas não lineares que tem sido explorados pelo modelos matemáticos e computacionais. Como lembra \citeonline{Weintrop2016}, campos da ciência estão experimentando um renascimento de abordagens experimentais em razão do acesso facilitado a mais poder computacional. 
 
@@ -38,7 +38,7 @@ Em linhas gerais, o aprendizado de máquina (do inglês: \textit{machine learnin
 
 Esse processo tem se provado extremamente eficiente na predição da configuração de sistemas estocásticos. Tomemos por exemplo a necessidade de prever o tempo, onde há dominância de comportamentos turbulentos. Em um estudo recente \apud[]{PhysRevLett.120.024102}{Vutha}, mostrou-se a eficiência do uso de algoritmos de inteligência artificial para previsões ao longo de um período muito maior do que se imaginou possível. Um ponto digno de nota: o algoritmo utilizado não continha nenhuma informação sobre as equações subjacentes. 
 
-Há atualmente questionamentos sobre até que ponto o uso intensivo de `robôs oráculos' levará à perda pelo interesse dos pesquisadores em descrever fenômenos em termos de equações e princípios unificadores. Esse debate é sintetizado pela confronto da noções de predição e entendimento.
+Há atualmente questionamentos sobre até que ponto o uso intensivo de `robôs oráculos' levará à perda pelo interesse dos pesquisadores em descrever fenômenos em termos de equações e princípios unificadores. Esse debate é sintetizado pela confronto das noções de predição e entendimento.
 
 \citeonline[]{Vutha} expõe os elementos desse debate com um exemplo histórico. Como destaca, durante mais de um milênio, o movimento dos planetas eram descritos a partir de um modelo elaborado por Ptolomeu. Seus métodos lançavam mão de cálculos misteriosos envolvendo sobreposição de círculos. Apesar de ignorar a teoria da gravidade e de ter a Terra no centro do Universo, esse modelo foi extremamente eficiente na sua capacidade preditiva. Contudo, ele não oferecia nenhum entendimento capaz de explicar o seu funcionamento.
 
@@ -56,8 +56,7 @@ A qualidade da proposta de Newton estava na sua possibilidade de oferecer não a
 
 Porém, dada a dominância de fenômenos complexos na natureza, tem sido extremamente difícil extrair de muitos deles princípios simples. Descrevê-los, portanto, a partir da obtenção de equações universalmente válidas pode ser uma forma um tanto ineficiente de gerar predições relevantes \cite{Vutha}. O emprego de técnicas de \textit{machine learning}, nesse sentido, tem sido essencial.
 
-A inteligência artificial tem ocupados outros espaços além da pesquisa científica. Desde robôs que leem a web para tomar decisão de investimentos \cite[]{Bloomberg} e carros que se auto dirigem, até contextos relativamente mais simples como tradutores automáticos e mecanismo buscas. %TODO: citar aplicações correntes (robôs investidores, carros autônomos).
-
+A inteligência artificial tem ocupados outros espaços além da pesquisa científica. Desde robôs que leem a web para tomar decisão de investimentos \cite[]{Bloomberg} e carros que se auto dirigem, até contextos relativamente mais simples como tradutores automáticos e mecanismo buscas. Já no mundo do trabalho, um sem-número projeções apontam para a substituição progressiva de quantidade considerável de atividades laborais por robôs.
 
 
 \begin{figure}[htb]
@@ -67,12 +66,21 @@ A inteligência artificial tem ocupados outros espaços além da pesquisa cient�
 	\caption{\label{Waymo} Carro autônomo da Waymo, subsidiária de veículos da Alphabet (matriz do Google)}
 \end{figure}
 
+A produção estratosférica de dados e a invasão da inteligência artificial nos meios científicos e na indústria é sintomático da interação dinâmica entre a ciência, a tecnologia, e a sociedade em ciclos que se retroalimentam.
+
+Novas descobertas levam a novas perguntas que exigem mais coleta de dados. Quando analisadas, essas informações são utilizadas para refinar e ajustar modelos, o que leva a novas perguntas e a mais produção de dados. Esse processo tende a culminar na criação de novas tecnologias. Tecnologias, por seu turno, inspiram usos sociais criativos que quase sempre criam demandas por mais descobertas científicas e mais tecnologia \cite[]{wing2008}. 
+
+\begin{figure}[htb]
+	\caption{Forças motrizes da computação}
+	\begin{center}
+	    \includegraphics[scale=0.28]{imagens/forcas_motriz.png}
+	\end{center}
+	\legend{Adaptado de \citeonline[]{wing2008}}
+\end{figure}
 
 
 
 % Aprendizado de máquina, ou simplesmente inteligência artificial, basea-se grosso modo 
-
-
 
 % Outra idéia levemente provocativa é que a ciência da computação aplicada está desempenhando o papel que a matemática fez do século XVII ao século XX: fornecer uma estrutura ordenada e formal e um aparato exploratório para outras ciências. Além de seu aparentemente feliz caso com a teoria das cordas, é difícil dizer o que a matemática está fazendo para outras ciências hoje; A maioria dos cientistas de matemática que utilizamos hoje foi desenvolvida há mais de um século.
 
