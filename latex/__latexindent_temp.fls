@@ -268,8 +268,12 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
 OUTPUT elementos-textuais/pensamento-computacional.aux
 INPUT elementos-textuais/pensamento-computacional.tex
 INPUT elementos-textuais/pensamento-computacional.tex
-INPUT imagens/abntex2-modelo-img-grafico.pdf
-INPUT ./imagens/abntex2-modelo-img-grafico.pdf
+INPUT imagens/ptolemy.jpg
+INPUT ./imagens/ptolemy.jpg
+INPUT ./imagens/ptolemy.jpg
+INPUT imagens/waymo.jpg
+INPUT ./imagens/waymo.jpg
+INPUT ./imagens/waymo.jpg
 OUTPUT elementos-textuais/capitulo-2.aux
 INPUT elementos-textuais/capitulo-2.tex
 INPUT elementos-textuais/capitulo-2.tex

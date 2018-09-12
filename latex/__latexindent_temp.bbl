@@ -120,6 +120,13 @@ In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Philosophy and the Cognitive Science}.
 Dispon{\'\i}vel em: \url{http://wiki.loa-cnr.it/Papers/OntLev.pdf}. Acesso em:
   2 jan. 2012.}
 
+\bibitem[Hatch 1998]{Hatch}
+\abntrefinfo{Hatch}{HATCH}{1998}
+{HATCH, R.~A. \emph{Ptolemy's planetary models}. 1998.
+Dispon{\'\i}vel em:
+  \url{http://users.clas.ufl.edu/ufhatch/pages/03-Sci-Rev/SCI-REV-Home/resource-ref-read/chief-systems/08-0PTOL3-WSYS.html}.
+  Acesso em: 11 de Setembro de 2018.}
+
 \bibitem[IBGE 1993]{ibge1993}
 \abntrefinfo{IBGE}{IBGE}{1993}
 {IBGE. \emph{Normas de apresenta{\c c}{\~a}o tabular}. 3. ed. Rio de Janeiro:
@@ -141,6 +148,14 @@ Dispon{\'\i}vel em:
 {{van} GIGCH, J.~P.; PIPINO, L.~L. In search for a paradigm for the discipline
   of information systems.
 \emph{Future Computing Systems}, v.~1, n.~1, p. 71--97, 1986.}
+
+\bibitem[Verhage 2017]{Bloomberg}
+\abntrefinfo{Verhage}{VERHAGE}{2017}
+{VERHAGE, J. \emph{This Robot Said to Sell Facebook. Next Time It May Be
+  Right}. 2017.
+Dispon{\'\i}vel em:
+  \url{https://www.bloomberg.com/news/articles/2017-11-21/this-robot-said-to-sell-facebook-next-time-it-may-be-right}.
+  Acesso em: 11 de Setembro de 2018.}
 
 \bibitem[Vutha 2018]{Vutha}
 \abntrefinfo{Vutha}{VUTHA}{2018}
@@ -170,10 +185,5 @@ Normandy Park, WA, 2010. Dispon{\'\i}vel em:
 \abntrefinfo{Wing}{WING}{2006}
 {WING, J. {Computational Thinking}.
 \emph{Commun. ACM}, ACM, New York, NY, USA, v.~49, n.~3, p. 33--35, 2006.}
-
-\bibitem[Wing 2008]{wing2008}
-\abntrefinfo{Wing}{WING}{2008}
-{WING, J. Computational thinking and thinking about computing.
-v.~366, p. 3717--25, 11 2008.}
 
 \end{thebibliography}

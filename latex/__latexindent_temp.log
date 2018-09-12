@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  11 SEP 2018 02:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  11 SEP 2018 23:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -756,11 +756,8 @@ Writing index file __latexindent_temp.idx
 Writing nomenclature file __latexindent_temp.nlo
 (./__latexindent_temp.aux (./elementos-textuais/introducao.aux)
 (./elementos-textuais/capitulo-1.aux)
-(./elementos-textuais/pensamento-computacional.aux
-
-LaTeX Warning: Label `fig_grafico' multiply defined.
-
-) (./elementos-textuais/capitulo-2.aux))
+(./elementos-textuais/pensamento-computacional.aux)
+(./elementos-textuais/capitulo-2.aux))
 \openout1 = `__latexindent_temp.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
@@ -1012,7 +1009,7 @@ Overfull \hbox (1.3121pt too wide) in paragraph at lines 75--75
 
 
 (./elementos-textuais/capitulo-1.tex
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 39.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 37.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1022,7 +1019,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (19.85774pt too wide) in paragraph at lines 62--62
+Overfull \hbox (19.85774pt too wide) in paragraph at lines 60--60
 []\T1/lmtt/m/n/12 As citações diretas, no texto, com mais de três linhas [...] 
 deve-se observar[] 
  []
@@ -1031,112 +1028,117 @@ deve-se observar[]
 
 
 ]
-Underfull \hbox (badness 1721) in paragraph at lines 120--120
+Underfull \hbox (badness 1721) in paragraph at lines 118--118
 []|\T1/lmr/bx/n/10 Sistemas de
  []
 
 [24]
-<imagens/abntex2-modelo-img-grafico.pdf, id=373, 847.165pt x 314.17375pt>
+<imagens/abntex2-modelo-img-grafico.pdf, id=370, 847.165pt x 314.17375pt>
 File: imagens/abntex2-modelo-img-grafico.pdf Graphic file (type pdf)
 <use imagens/abntex2-modelo-img-grafico.pdf>
 Package pdftex.def Info: imagens/abntex2-modelo-img-grafico.pdf  used on input 
-line 230.
+line 228.
 (pdftex.def)             Requested size: 423.58145pt x 157.08649pt.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 236.
-<imagens/abntex2-modelo-img-marca.pdf, id=380, 227.51701pt x 72.2695pt>
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 234.
+<imagens/abntex2-modelo-img-marca.pdf, id=377, 227.51701pt x 72.2695pt>
 File: imagens/abntex2-modelo-img-marca.pdf Graphic file (type pdf)
 <use imagens/abntex2-modelo-img-marca.pdf>
 Package pdftex.def Info: imagens/abntex2-modelo-img-marca.pdf  used on input li
-ne 249.
+ne 247.
 (pdftex.def)             Requested size: 204.76341pt x 65.04192pt.
 
-Overfull \hbox (22.76619pt too wide) in paragraph at lines 249--250
+Overfull \hbox (22.76619pt too wide) in paragraph at lines 247--248
  [][] 
  []
 
 File: imagens/abntex2-modelo-img-grafico.pdf Graphic file (type pdf)
 <use imagens/abntex2-modelo-img-grafico.pdf>
 Package pdftex.def Info: imagens/abntex2-modelo-img-grafico.pdf  used on input 
-line 256.
+line 254.
 (pdftex.def)             Requested size: 169.43pt x 62.83363pt.
 [25] [26 <./imagens/abntex2-modelo-img-grafico.pdf> <./imagens/abntex2-modelo-i
 mg-marca.pdf>] [27]
-Overfull \hbox (22.32773pt too wide) in paragraph at lines 386--386
+Overfull \hbox (22.32773pt too wide) in paragraph at lines 384--384
 []   \T1/lmtt/m/n/12 \usepackage{indentfirst}      % Indenta o primeiro parágra
 fo de cada seção.[] 
  []
 
 [28]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 439.
+(Font)              <17.28> on input line 437.
 
-Overfull \hbox (1.95023pt too wide) in paragraph at lines 456--456
+Overfull \hbox (1.95023pt too wide) in paragraph at lines 454--454
 []   \T1/lmtt/m/n/12 makeindex ARQUIVO_PRINCIPAL.nlo -s nomencl.ist -o ARQUIVO_
 PRINCIPAL.nls[] 
  []
 
-[29]
-Overfull \hbox (8.12523pt too wide) in paragraph at lines 478--478
+
+Overfull \hbox (8.12523pt too wide) in paragraph at lines 476--476
 []\T1/lmtt/m/n/12 Ao nomear a \autoref{tab-nivinv} e a \autoref{fig_circulo}, a
 presentamos um[] 
  []
 
-
-Overfull \hbox (26.03273pt too wide) in paragraph at lines 480--480
+[29]
+Overfull \hbox (26.03273pt too wide) in paragraph at lines 478--478
 []\T1/lmtt/m/n/12 \autoref{cap_exemplos}, que tem o nome \emph{\nameref{cap_exe
 mplos}}. O número[] 
  []
 
 
-Overfull \hbox (31.89899pt too wide) in paragraph at lines 482--482
+Overfull \hbox (31.89899pt too wide) in paragraph at lines 480--480
 []\T1/lmtt/m/n/12 \autopageref{cap_exemplos}\footnote{O número da página de uma
  remissão pode ser[] 
  []
 
 
-Overfull \hbox (26.34149pt too wide) in paragraph at lines 485--485
+Overfull \hbox (26.34149pt too wide) in paragraph at lines 483--483
 []\T1/lmtt/m/n/12 Veja a \autoref{sec-divisoes} para outros exemplos de remissõ
 es internas entre[] 
  []
 
 [30] [31]
-Overfull \hbox (190.9858pt too wide) in paragraph at lines 618--618
+Overfull \hbox (190.9858pt too wide) in paragraph at lines 616--616
 [][] [][][]\T1/lmr/m/n/10 (-20) Extraído de: [][]$<[]http : / / bigbrowser . bl
 og . lemonde . fr / 2013 / 02 / 17 / tu-[]ne-[]tweeteras-[]point-[]le-[]vatican
 -[]interdit-[]aux-[]cardinaux-[]de-[]tweeter-[]pendant-[]le-[]conclave /
  []
 
-[32]
-LaTeX Info: Redefining \. on input line 636.
-LaTeX Info: Redefining \% on input line 636.
- [33]
-Overfull \hbox (6.91217pt too wide) in paragraph at lines 709--712
+LaTeX Info: Redefining \. on input line 634.
+LaTeX Info: Redefining \% on input line 634.
+[32] [33]
+Overfull \hbox (6.91217pt too wide) in paragraph at lines 707--710
 []\T1/lmr/m/n/12 (-20) Inscreva-se no grupo de usuá-rios L[]T[]X: [][]$<[]http 
 : / / groups . google . com / group / latex-[]br>[]$[][],
  []
 
-) [34] [35]
+) [34]
 \openout2 = `elementos-textuais/pensamento-computacional.aux'.
 
- (./elementos-textuais/pensamento-computacional.tex [36
+ (./elementos-textuais/pensamento-computacional.tex [35
 
 
 
-] [37]
-File: imagens/abntex2-modelo-img-grafico.pdf Graphic file (type pdf)
-<use imagens/abntex2-modelo-img-grafico.pdf>
-Package pdftex.def Info: imagens/abntex2-modelo-img-grafico.pdf  used on input 
-line 48.
-(pdftex.def)             Requested size: 423.58145pt x 157.08649pt.
-)
-[38] [39
+] [36]
+<imagens/ptolemy.jpg, id=621, 552.0625pt x 550.055pt>
+File: imagens/ptolemy.jpg Graphic file (type jpg)
+<use imagens/ptolemy.jpg>
+Package pdftex.def Info: imagens/ptolemy.jpg  used on input line 48.
+(pdftex.def)             Requested size: 276.03056pt x 275.02682pt.
+ [37 <./imagens/ptolemy.jpg>]
+<imagens/waymo.jpg, id=637, 1505.625pt x 1003.75pt>
+File: imagens/waymo.jpg Graphic file (type jpg)
+<use imagens/waymo.jpg>
+Package pdftex.def Info: imagens/waymo.jpg  used on input line 65.
+(pdftex.def)             Requested size: 376.40533pt x 250.93689pt.
+) [38 <./imagens/waymo.jpg>] [39
 
 
 ]
 \openout2 = `elementos-textuais/capitulo-2.aux'.
 
- (./elementos-textuais/capitulo-2.tex
+
+(./elementos-textuais/capitulo-2.tex
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 9.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
@@ -1170,33 +1172,33 @@ Overfull \hbox (23.59468pt too wide) in paragraph at lines 114--114
 o-[]know-[]to-[]understand-[]how-[]machines-[]learn-[]72004>[]$[][]. 
  []
 
-) (./elementos-postextuais/apendices.tex [43]
+[43]) (./elementos-postextuais/apendices.tex [44]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 10.
 
-[44
+[45
 
 
-] [45
+] [46
 
-]) (./elementos-postextuais/anexos.tex [46
+]) (./elementos-postextuais/anexos.tex [47
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 10.
 
-[47
+[48
 
-
-] [48
 
 ] [49
 
-]) (./__latexindent_temp.ind [50
+] [50
 
-] [51
+]) (./__latexindent_temp.ind [51
+
+] [52
 
 
 
@@ -1221,21 +1223,21 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
 Package rerunfilecheck Info: File `__latexindent_temp.brf' has not changed.
-(rerunfilecheck)             Checksum: 60A0A0187B92AF1F1BD0D7549CEF2A32;2603.
+(rerunfilecheck)             Checksum: D0EE9E4BA92194CE3540807CF70477BA;2602.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 15954 strings out of 492649
- 240586 string characters out of 6129623
- 514060 words of memory out of 5000000
- 19148 multiletter control sequences out of 15000+600000
- 109573 words of font info for 159 fonts, out of 8000000 for 9000
+ 15981 strings out of 492649
+ 240946 string characters out of 6129623
+ 513553 words of memory out of 5000000
+ 19166 multiletter control sequences out of 15000+600000
+ 109664 words of font info for 160 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,38p,907b,659s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,13n,38p,907b,681s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
 texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/20
 18/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2018/texmf-d
@@ -1258,10 +1260,10 @@ s/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
 public/lm/lmsso12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm
 /lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy8.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on __latexindent_temp.pdf (52 pages, 697912 bytes).
+Output written on __latexindent_temp.pdf (53 pages, 1052842 bytes).
 PDF statistics:
- 1103 PDF objects out of 1200 (max. 8388607)
- 989 compressed objects within 10 object streams
- 208 named destinations out of 1000 (max. 500000)
- 37923 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 1116 PDF objects out of 1200 (max. 8388607)
+ 999 compressed objects within 10 object streams
+ 211 named destinations out of 1000 (max. 500000)
+ 37933 words of extra memory for PDF output out of 42996 (max. 10000000)
 
