@@ -48,7 +48,7 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Pensamento Computacional}}{35}{chapter.2}
 \contentsline {section}{\numberline {2.1}Computadores e as transforma\IeC {\c c}\IeC {\~o}es na pr\IeC {\'a}tica cient\IeC {\'\i }fica}{35}{section.2.1}
-\contentsline {section}{\numberline {2.2}A ci\IeC {\^e}ncia da computa\IeC {\c c}\IeC {\~a}o na investiga\IeC {\c c}\IeC {\~a}o cient\IeC {\'\i }fica: o pensamento computacional}{40}{section.2.2}
+\contentsline {section}{\numberline {2.2}A consolida\IeC {\c c}\IeC {\~a}o da ci\IeC {\^e}ncia da computa\IeC {\c c}\IeC {\~a}o na investiga\IeC {\c c}\IeC {\~a}o cient\IeC {\'\i }fica: o pensamento computacional}{40}{section.2.2}
 \contentsline {part}{\partnumberline {II}\MakeTextUppercase {Dicas de \IeC {\'u}teis}}{41}{part.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Dicas \IeC {\'u}teis}}{42}{chapter.3}
