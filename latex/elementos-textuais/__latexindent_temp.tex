@@ -98,13 +98,36 @@ A definição clássica que muitos autores dão para o conceito é extraído do 
 
 O desenvolvimento do tema requer algumas discussões preliminares. Comecemos com uma apresentação sobre o papel dos algoritmos.
 
+Em termos simplificados, um algoritmo nada mais é do que uma solução para um problema que satisfaz as seguintes condições \cite{Piwek2016}:
+
+\begin{itemize}
+	\item deve apresentar uma lista sequenciada de passos que levam à solução do problema 
+	\item deve ser um processo finito
+	\item deve resolver qualquer instância do problema em questão
+\end{itemize}
+
+\begin{figure}[htb]
+	\begin{center}
+	    \includegraphics[scale=1]{imagens/algorithm.png}
+	\end{center}
+	% \legend{Adaptado de \citeonline[]{wing2008}}
+	\caption{Algoritmo de soma retirado de \citeonline{Gough}}
+	\label{fig:algoritmo}
+\end{figure}
+
+Na figura \ref{fig:algoritmo} lê-se um conjunto de instruções para somar três números inteiros, extraídos do livro \textit{Practical Arithmetick in Four Books} do autor John Gough, publicado pela primeira vez em 1767. Sob o título `General rules', lemos
+
+\begin{citacao}
+	Coloque os números de modo que cada algarismo possa ficar diretamente abaixo (ou na mesma linha perpendicular) dos algorismos de mesmo valor, ou seja: unidades em unidades, dezenas em dezenas, centenas em centenas.$[...]$Em seguida, desenhando uma linha abaixo deles; comece a adição no primeiro lugar (ou unidades) e some todas os algorismos naquele lugar, e se a soma delas for menor que dez, coloque-a abaixo da linha abaixo de seu próprio lugar;mas se a soma for superior a dez, estabeleça apenas o excedente acima das dez (ou dezenas) e algumas dezenas, à medida que a soma dessas unidades se eleva, carregue para o local das dezenas, adicionando-as e os algorismos que estão no lugar de dezenas juntos; em seguida, proceda da mesma maneira até o terceiro lugar, ou centenas, e de um lugar para outro até o último, e estabeleça a soma total do último lugar.  
+\end{citacao}
+
+Perceba como essas instruções satisfazem as condições elencadas anteriormente: nela vemos um problema (cálculo da soma de três número inteiros) sendo resolvido de forma encadeada ao longo de um processo finito. Nota-se também que os passos acima facultariam a soma de quaisquer outros três números inteiros, atendendo a exigência de ``resolver qualquer instância do problema''. 
+
+A tarefa de definir as instâncias de um problema equivale a delimitar qual é o seu escopo, ou seja, o alcance que uma possível solução deve atingir. Ao redigirmos um algoritmo para a divisão entre $a$ e $b$, por exemplo, deveríamos impor que ambos devem assumir quaisquer valores reais contanto que $b$ seja diferente de zero. Assim, ditamos os limites do problema, em outras palavras, as sua instâncias. Do ponto de vista da ciência da computação, ao procedermos dessa forma, distinguindo claramente os contornos de um problema, estamos definindo um ``problema computacional''.
+
+A definição clara das instâncias do problema (criação de um problema computacional) e dos passos exatos para sua solução\footnote{Ao tratarmos computacionalmente um problema devemos ser capazes também de distinguir quando e porque, eventualmente, ele não tem solução.} (elaboração de um algoritmo) nos permitirá automatizar a sua execução por um computador. E é exatamente nessas duas habilidades, conforme definição dada anteriormente, que se apoiam o pensamento computacional.
+
 % FALAR SOBRE ALGORITMOS.
-
-
-
-
-
-
 
 Um dos pilares que sustenta sua proposta é o conceito de abstração. Para entendermos o pensamento computacional devemos tentar captar o significado que este conceito adquire no trabalho da autora. Nas suas palavras, 
 
@@ -118,7 +141,7 @@ O trecho acima enfatiza a criação de uma abstração como um processo de gener
 
 No contexto da computação científica, o uso de abstrações se dá a partir da construção e do uso de modelos matemáticos. Estabelece-se aí a noção de abstração como modelagem. %mas 
 
-A necessidade de ser criar um modelo nasce normalmente da intenção de se criar uma representação de um sistema ou processo, como no caso das ciências físicas onde se buscam representações para fenômenos da realidade. 
+A necessidade de criação de um modelo nasce normalmente da intenção de se elaborar uma descrição de um sistema ou processo, como no caso das ciências físicas onde se buscam representações para fenômenos da realidade. 
 
 %Essencialmente, ao construirmos um modelo buscamos 
 

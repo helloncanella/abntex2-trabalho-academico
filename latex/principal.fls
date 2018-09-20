@@ -277,11 +277,14 @@ INPUT ./imagens/waymo.jpg
 INPUT imagens/forcas_motriz.png
 INPUT ./imagens/forcas_motriz.png
 INPUT ./imagens/forcas_motriz.png
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
+INPUT imagens/algorithm.png
+INPUT ./imagens/algorithm.png
+INPUT ./imagens/algorithm.png
 OUTPUT elementos-textuais/capitulo-2.aux
 INPUT elementos-textuais/capitulo-2.tex
 INPUT elementos-textuais/capitulo-2.tex
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
 INPUT elementos-textuais/conclusao.tex
 INPUT elementos-textuais/conclusao.tex
 INPUT principal.bbl

@@ -1,5 +1,6 @@
 \backcite {NBR14724:2011}{{3}{(document)}{Doc-Start}}
 \backcite {NBR6028:2003}{{8}{(document)}{Doc-Start}}
+\backcite {Gough}{{13}{(document)}{Doc-Start}}
 \backcite {abntex2classe}{{21}{(document)}{Doc-Start}}
 \backcite {abntex2-wiki-como-customizar}{{21}{(document)}{Doc-Start}}
 \backcite {abntex2classe,abntex2cite,abntex2cite-alf}{{21}{(document)}{Doc-Start}}
@@ -54,9 +55,11 @@
 \backcite {Djorgovski2005}{{39}{2.1}{figure.2.7}}
 \backcite {Djorgovski2005}{{39}{2.1}{figure.2.7}}
 \backcite {wing2006}{{40}{2.2}{section.2.2}}
-\backcite {wing2006}{{40}{2.2}{section.2.2}}
-\backcite {Locke}{{40}{2.2}{section.2.2}}
-\backcite {Locke}{{40}{2.2}{section.2.2}}
-\backcite {Sengupta2013}{{40}{2.2}{section.2.2}}
-\backcite {Sengupta2013}{{40}{2.2}{section.2.2}}
-\backcite {NBR14724:2005}{{45}{3.4}{section*.25}}
+\backcite {Piwek2016}{{40}{2.2}{section.2.2}}
+\backcite {Gough}{{41}{8}{figure.2.8}}
+\backcite {wing2006}{{42}{2.2}{figure.2.8}}
+\backcite {Locke}{{42}{2.2}{figure.2.8}}
+\backcite {Locke}{{42}{2.2}{figure.2.8}}
+\backcite {Sengupta2013}{{42}{2.2}{figure.2.8}}
+\backcite {Sengupta2013}{{42}{2.2}{figure.2.8}}
+\backcite {NBR14724:2005}{{46}{3.4}{section*.25}}
