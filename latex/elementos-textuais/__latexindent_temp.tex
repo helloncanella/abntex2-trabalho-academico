@@ -53,6 +53,7 @@ Há atualmente questionamentos sobre até que ponto o uso intensivo de `robôs o
 A descrição do movimento dos corpos celestes só foi finalmente compreendida a partir da equações diferenciais descobertas por Isaac Newton. Com elas tem sido possível, desde então, prever a trajetória de todo e qualquer planeta do sistema solar.
 
 A qualidade da proposta de Newton estava na possibilidade de oferecer não apenas a descrição de trajetórias, mas por permitir também que entendamos o porquê que elas são de uma e não de outra forma. Ao nos trazer equações, ele nos facultou a compreensão do fenômeno do movimento a partir da ótica de princípios unificadores. E é exatamente nesse ponto que reside o poder da descrição matemática. Como analisa \citeonline{Vutha}, se formos capazes de extrair de um fenômeno complicado dois ou três princípios, podemos dizer então que o compreendemos.
+ 
 
 Porém, dada a dominância de fenômenos complexos na natureza, tem sido extremamente difícil extrair de muitos deles princípios simples. Descrevê-los, portanto, a partir da obtenção de equações universalmente válidas pode ser uma forma um tanto ineficiente de gerar predições relevantes \cite{Vutha}. O emprego de técnicas de \textit{machine learning}, nesse sentido, tem sido essencial.
 
@@ -107,11 +108,11 @@ Em termos simplificados, um algoritmo nada mais é do que uma solução para um 
 \end{itemize}
 
 \begin{figure}[htb]
+	\caption{Algoritmo de soma de três números inteiros}
 	\begin{center}
 	    \includegraphics[scale=1]{imagens/algorithm.png}
 	\end{center}
-	% \legend{Adaptado de \citeonline[]{wing2008}}
-	\caption{Algoritmo de soma retirado de \citeonline{Gough}}
+	\legend{Fonte: \citeonline{Gough}}
 	\label{fig:algoritmo}
 \end{figure}
 
@@ -127,21 +128,58 @@ A tarefa de definir as instâncias de um problema equivale a delimitar qual é o
 
 A definição clara das instâncias do problema (criação de um problema computacional) e dos passos exatos para sua solução\footnote{Ao tratarmos computacionalmente um problema devemos ser capazes também de distinguir quando e porque, eventualmente, ele não tem solução.} (elaboração de um algoritmo) nos permitirá automatizar a sua execução por um computador. E é exatamente nessas duas habilidades, conforme definição dada anteriormente, que se apoiam o pensamento computacional.
 
-% FALAR SOBRE ALGORITMOS.
-
-Um dos pilares que sustenta sua proposta é o conceito de abstração. Para entendermos o pensamento computacional devemos tentar captar o significado que este conceito adquire no trabalho da autora. Nas suas palavras, 
+A noção de abstração é outro componente que necessita ser compreendido ao tratarmos do pensamento computacional. Nas palavras de \citeonline{wing2006},
 
 \begin{citacao}
 A abstração é usada na definição de padrões, generalização de instâncias e parametrização. É usado para deixar um objeto representar muitos. Ele é usado para capturar propriedades essenciais comuns a um conjunto de objetos enquanto oculta distinções irrelevantes entre eles \cite[p.~1. Tradução nossa]{wing2006}
 \end{citacao}
 
-O trecho acima enfatiza a criação de uma abstração como um processo de generalização. Abstrações, desse ponto de vista, são representações generalizadas aplicáveis a diversos contextos ou situações. 
+Abstrair, como enfatiza o trecho acima, equivale simplesmente a conduzir um processo de generalização, onde incorporamos parte dos detalhes da realidade em um modelo, ao mesmo tempo que descartamos outros. Estabelece-se assim uma relação entre dois níveis: a realidade e sua representação.
 
-É interessante notar a proximidade da conceptualização de Wing com a do inglês John Locke. Basicamente, o filósofo distinguia dois tipos de ideas: particulares e gerais. As primeiras, limitadas a contextos específicos no tempo e no espaço, enquanto as últimas, livres de tais restrições, poderiam ser aplicadas a configurações diversificadas. Nesse processo, a formação de uma abstração corresponde a uma transformação durante a qual ``ideias tomadas de seres particulares se tornam representantes gerais de todos do mesmo tipo'' \apud[p.~354. Tradução nossa]{Locke}{Sengupta2013}.
+\begin{figure}[htb]
+	\caption{Relação entre a realidade e o seu modelo}
+	\begin{center}
+	    \includegraphics[scale=0.65]{imagens/modelo_e_realidade.png}
+	\end{center}
+	\legend{Adaptado de \citeonline[]{Piwek2016}}
+\end{figure}
 
-No contexto da computação científica, o uso de abstrações se dá a partir da construção e do uso de modelos matemáticos. Estabelece-se aí a noção de abstração como modelagem. %mas 
+A figura \ref{fig:pipe} ilustra essa discussão. Nela vemos a obra ``A Traição das Imagens '' por René Magritte (1898-1967),onde lê-se, \textit{``Ceci n'est pas une pipe''} (``Isto não é um cachimbo''). Essa provocação evidencia que um modelo nada mais é do que uma representação, e não a realidade em si.
 
-A necessidade de criação de um modelo nasce normalmente da intenção de se elaborar uma descrição de um sistema ou processo, como no caso das ciências físicas onde se buscam representações para fenômenos da realidade. 
+\begin{figure}[htb]
+	\caption{``A Traição das Imagens'', por René Magritte}
+	\begin{center}
+	    \includegraphics[scale=0.75]{imagens/pipe}
+	\end{center}
+	\label{fig:pipe}
+\end{figure}
+
+O grau de detalhamento do modelo depende das circunstâncias do problema, bem como das necessidades de quem modela. Por exemplo, ao analisarmos a trajetória de lançamento de um foguete, podemos descartar suas dimensões e eliminar possíveis efeitos aerodinâmicos. Essa abordagem é extremamente conveniente para o ensino de primeiras noções de física básica, mas demasiadamente simplória no contexto da condução de um programa aerospacial.
+
+Na figura \ref{fig:cows} temos a ilustração dessa ideia: a mesma ``realidade'' vaca representada por quatro modelos com diferentes graus de detalhes incorporados.
+
+\begin{figure}[htb]
+	\caption{Quatro representações de uma vaca por Theo van Doesburg, 1917, 1918}
+	\begin{center}
+	    \includegraphics[scale=0.26]{imagens/vacas.png}
+	\end{center}
+	\legend{Fonte: \citeonline[]{Piwek2016}}
+	\label{fig:cows}
+\end{figure}
+
+
+
+
+
+% O trecho acima enfatiza a criação de uma abstração como um processo de generalização. Abstrações, desse ponto de vista, são representações generalizadas aplicáveis a diversos contextos ou situações. 
+
+% significado filosífico. TODO: incluir
+
+% É interessante notar a proximidade da conceptualização de Wing com a do inglês John Locke. Basicamente, o filósofo distinguia dois tipos de ideas: particulares e gerais. As primeiras, limitadas a contextos específicos no tempo e no espaço, enquanto as últimas, livres de tais restrições, poderiam ser aplicadas a configurações diversificadas. Nesse processo, a formação de uma abstração corresponde a uma transformação durante a qual ``ideias tomadas de seres particulares se tornam representantes gerais de todos do mesmo tipo'' \apud[p.~354. Tradução nossa]{Locke}{Sengupta2013}.
+
+% No contexto da computação científica, o uso de abstrações se dá a partir da construção e do uso de modelos matemáticos. Estabelece-se aí a noção de abstração como modelagem. %mas 
+
+% A necessidade de criação de um modelo nasce normalmente da intenção de se elaborar uma descrição de um sistema ou processo, como no caso das ciências físicas onde se buscam representações para fenômenos da realidade. 
 
 %Essencialmente, ao construirmos um modelo buscamos 
 

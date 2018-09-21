@@ -282,6 +282,15 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
 INPUT imagens/algorithm.png
 INPUT ./imagens/algorithm.png
 INPUT ./imagens/algorithm.png
+INPUT imagens/modelo_e_realidade.png
+INPUT ./imagens/modelo_e_realidade.png
+INPUT ./imagens/modelo_e_realidade.png
+INPUT imagens/pipe.jpg
+INPUT ./imagens/pipe.jpg
+INPUT ./imagens/pipe.jpg
+INPUT imagens/vacas.png
+INPUT ./imagens/vacas.png
+INPUT ./imagens/vacas.png
 OUTPUT elementos-textuais/capitulo-2.aux
 INPUT elementos-textuais/capitulo-2.tex
 INPUT elementos-textuais/capitulo-2.tex
