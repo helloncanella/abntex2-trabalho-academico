@@ -1,19 +1,19 @@
 # Fdb version 3
-["bibtex principal"] 1537509269 "principal.aux" "principal.bbl" "principal" 1537509274
+["bibtex principal"] 1537509269 "principal.aux" "principal.bbl" "principal" 1537509760
   "/usr/local/texlive/2018/texmf-dist/bibtex/bib/abntex2/abntex2-options.bib" 1480098425 5396 4eb260dac60f150ae608d45252853090 ""
   "/usr/local/texlive/2018/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst" 1480098433 60064 6469892b646cc99dbd8ecd5e965537d8 ""
   "elementos-postextuais/referencias.bib" 1537418324 28429 083aebfc9b9737f0010678572f9597a8 ""
-  "elementos-textuais/pensamento-computacional.aux" 1537509272 7799 17b79a287d62c106cb886188265555b8 ""
-  "principal.aux" 1537509272 3957 0d7f5a75fb5379719a5ab810f078c233 ""
+  "elementos-textuais/pensamento-computacional.aux" 1537509759 7799 17b79a287d62c106cb886188265555b8 ""
+  "principal.aux" 1537509759 3957 0d7f5a75fb5379719a5ab810f078c233 ""
   (generated)
   "principal.blg"
   "principal.bbl"
-["makeindex principal.idx"] 1537509263 "principal.idx" "principal.ind" "principal" 1537509274
-  "principal.idx" 1537509271 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex principal.idx"] 1537509263 "principal.idx" "principal.ind" "principal" 1537509760
+  "principal.idx" 1537509758 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "principal.ilg"
   "principal.ind"
-["pdflatex"] 1537509269 "/Users/helloncanella/Dropbox/monografia/latex/principal.tex" "principal.pdf" "principal" 1537509274
+  "principal.ilg"
+["pdflatex"] 1537509758 "/Users/helloncanella/Dropbox/monografia/latex/principal.tex" "principal.pdf" "principal" 1537509760
   "/Users/helloncanella/Dropbox/monografia/latex/principal.tex" 1537507735 7936 d9c1789ebda02cb62d4bb8a1573829cb ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1480098668 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1480098668 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -141,8 +141,8 @@
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1531180459 4220279 8f817d91b74fcb649d19519ce6d8b049 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "elementos-pretextuais/capa.tex" 1537509256 752 e57407c4fcd86a4d56767190b29ce3a2 ""
-  "elementos-textuais/pensamento-computacional.aux" 1537509272 7799 17b79a287d62c106cb886188265555b8 ""
-  "elementos-textuais/pensamento-computacional.tex" 1537507508 22883 27a51df387d4aa20b33a92d0015187ba ""
+  "elementos-textuais/pensamento-computacional.aux" 1537509759 7799 17b79a287d62c106cb886188265555b8 ""
+  "elementos-textuais/pensamento-computacional.tex" 1537509755 22883 03877fc9099a392b1407499afe00b71b ""
   "imagens/algorithm.png" 1537415732 124597 822a81af74e5a6037f71f25ba6cdb3f9 ""
   "imagens/forcas_motriz.png" 1536729897 24562 d1fb17a338fcbb9c2a7420858df22d56 ""
   "imagens/modelo_e_realidade.png" 1537498513 17752 884de0024ef231ef2c6eac08ed3973bc ""
@@ -151,16 +151,16 @@
   "imagens/vacas.png" 1537504517 521055 cc37869a9b0dc633928b2b6bfe8a647d ""
   "imagens/waymo.jpg" 1536719509 294643 75e82a4901cca60675bfe486e09fd917 ""
   "pacotes.tex" 1528491382 1661 062ae8c45ad8364f07b424e8d352d317 ""
-  "principal.aux" 1537509272 3957 0d7f5a75fb5379719a5ab810f078c233 ""
+  "principal.aux" 1537509759 3957 0d7f5a75fb5379719a5ab810f078c233 ""
   "principal.bbl" 1537509269 3848 d914d1d7e1abf7dda50648ca077fbd2e "bibtex principal"
-  "principal.brf" 1537509273 1561 3a540ab99b0fbc8f830c193f58773dfc ""
+  "principal.brf" 1537509759 1561 3a540ab99b0fbc8f830c193f58773dfc ""
   "principal.ind" 1537509263 0 d41d8cd98f00b204e9800998ecf8427e "makeindex principal.idx"
   "principal.tex" 1537507735 7936 d9c1789ebda02cb62d4bb8a1573829cb ""
   (generated)
-  "principal.aux"
-  "principal.brf"
-  "principal.idx"
   "principal.nlo"
-  "principal.pdf"
+  "principal.idx"
   "elementos-textuais/pensamento-computacional.aux"
+  "principal.pdf"
+  "principal.brf"
   "principal.log"
+  "principal.aux"
