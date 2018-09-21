@@ -90,48 +90,48 @@
 
 % Folha de rosto
 % (o * indica que haverá a ficha bibliográfica)
-\imprimirfolhaderosto*
+% \imprimirfolhaderosto*
 
-\input{elementos-pretextuais/ficha-catalografica}
-\input{elementos-pretextuais/errata}
-\input{elementos-pretextuais/folha-aprovacao}
-\input{elementos-pretextuais/dedicatoria}
-\input{elementos-pretextuais/agradecimentos}
-\input{elementos-pretextuais/epigrafe}
-\input{elementos-pretextuais/resumos}
-\input{elementos-pretextuais/epigrafe}
+% \input{elementos-pretextuais/ficha-catalografica}
+% \input{elementos-pretextuais/errata}
+% \input{elementos-pretextuais/folha-aprovacao}
+% \input{elementos-pretextuais/dedicatoria}
+% \input{elementos-pretextuais/agradecimentos}
+% \input{elementos-pretextuais/epigrafe}
+% \input{elementos-pretextuais/resumos}
+% \input{elementos-pretextuais/epigrafe}
 
 
 % ----------------------------------------------------------
 % inserir lista de ilustrações
 % ----------------------------------------------------------
-\pdfbookmark[0]{\listfigurename}{lof}
-\listoffigures*
-\cleardoublepage
+% \pdfbookmark[0]{\listfigurename}{lof}
+% \listoffigures*
+% \cleardoublepage
 
 % ----------------------------------------------------------
 % inserir lista de tabelas
 % ----------------------------------------------------------
-\pdfbookmark[0]{\listtablename}{lot}
-\listoftables*
-\cleardoublepage
+% \pdfbookmark[0]{\listtablename}{lot}
+% \listoftables*
+% \cleardoublepage
 
 % ----------------------------------------------------------
 % inserir lista siglas e abreviaturas
 % ----------------------------------------------------------
-\input{elementos-pretextuais/siglas}
+% \input{elementos-pretextuais/siglas}
 
 % ----------------------------------------------------------
 % inserir lista símbolos
-\input{elementos-pretextuais/simbolos}
+% \input{elementos-pretextuais/simbolos}
 % ----------------------------------------------------------
 
 % ----------------------------------------------------------
 % inserir o sumario
 % ----------------------------------------------------------
-\pdfbookmark[0]{\contentsname}{toc}
-\tableofcontents*
-\cleardoublepage
+% \pdfbookmark[0]{\contentsname}{toc}
+% \tableofcontents*
+% \cleardoublepage
 
 % ----------------------------------------------------------
 % ELEMENTOS TEXTUAIS
@@ -142,20 +142,20 @@
 % Introdução (exemplo de capítulo sem numeração, mas presente no Sumário)
 % ----------------------------------------------------------
 % TODO inserir seu capítulo 1 aqui
-\chapter*[Introdução]{Introdução}
-\addcontentsline{toc}{chapter}{Introdução}
+% \chapter*[Introdução]{Introdução}
+% \addcontentsline{toc}{chapter}{Introdução}
 % ----------------------------------------------------------
-\include{elementos-textuais/introducao}
+% \include{elementos-textuais/introducao}
 
 % ----------------------------------------------------------
 % PARTE
 % ----------------------------------------------------------
-\part{Preparação da pesquisa}
+% \part{Preparação da pesquisa}
 
 % ----------------------------------------------------------
 % Capitulo com exemplos de comandos inseridos de arquivo externo
 % ----------------------------------------------------------
-\include{elementos-textuais/capitulo-1}
+% \include{elementos-textuais/capitulo-1}
 
 \include{elementos-textuais/pensamento-computacional}
 
@@ -163,12 +163,12 @@
 % ----------------------------------------------------------
 % PARTE
 % ----------------------------------------------------------
-\part{Dicas de úteis}
+% \part{Dicas de úteis}
 
 % ----------------------------------------------------------
 % Capitulo com exemplos de comandos inseridos de arquivo externo
 % ----------------------------------------------------------
-\include{elementos-textuais/capitulo-2}
+% \include{elementos-textuais/capitulo-2}
 % ----------------------------------------------------------
 
 % Finaliza a parte no bookmark do PDF
@@ -180,15 +180,15 @@
 % ----------------------------------------------------------
 % Conclusão (outro exemplo de capítulo sem numeração e presente no sumário)
 % ----------------------------------------------------------
-\chapter*[Conclusão]{Conclusão}
-\addcontentsline{toc}{chapter}{Conclusão}
-% ----------------------------------------------------------
-\input{elementos-textuais/conclusao}
+% % \chapter*[Conclusão]{Conclusão}
+% % \addcontentsline{toc}{chapter}{Conclusão}
+% % ----------------------------------------------------------
+% \input{elementos-textuais/conclusao}
 
 % ----------------------------------------------------------
 % ELEMENTOS PÓS-TEXTUAIS
 % ----------------------------------------------------------
-\postextual
+% \postextual
 % ----------------------------------------------------------
 
 % ----------------------------------------------------------
@@ -207,19 +207,19 @@
 % ----------------------------------------------------------
 % Apêndices
 % ----------------------------------------------------------
-\input{elementos-postextuais/apendices}
+% \input{elementos-postextuais/apendices}
 
 
 % ----------------------------------------------------------
 % Anexos
 % ----------------------------------------------------------
-\input{elementos-postextuais/anexos}
+% \input{elementos-postextuais/anexos}
 
 %---------------------------------------------------------------------
 % INDICE REMISSIVO
 %---------------------------------------------------------------------
-\phantompart
-\printindex
+% \phantompart
+% \printindex
 %---------------------------------------------------------------------
 
 \end{document}

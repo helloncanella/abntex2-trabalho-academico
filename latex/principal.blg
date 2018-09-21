@@ -1,10 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: principal.aux
-A level-1 auxiliary file: elementos-textuais/introducao.aux
-A level-1 auxiliary file: elementos-textuais/capitulo-1.aux
 A level-1 auxiliary file: elementos-textuais/pensamento-computacional.aux
-A level-1 auxiliary file: elementos-textuais/capitulo-2.aux
 The style file: abntex2-alf.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -34,45 +31,45 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 29 entries,
+You've used 14 entries,
             6714 wiz_defined-function locations,
-            1389 strings with 14466 characters,
-and the built_in function-call counts, 38712 in all, are:
-= -- 4706
-> -- 498
-< -- 1051
-+ -- 1252
-- -- 156
-* -- 2321
-:= -- 4739
-add.period$ -- 127
-call.type$ -- 29
-change.case$ -- 221
-chr.to.int$ -- 51
-cite$ -- 28
-duplicate$ -- 4000
-empty$ -- 1654
-format.name$ -- 740
-if$ -- 7789
-int.to.chr$ -- 2
+            1298 strings with 12009 characters,
+and the built_in function-call counts, 21297 in all, are:
+= -- 2628
+> -- 278
+< -- 605
++ -- 731
+- -- 86
+* -- 1252
+:= -- 2650
+add.period$ -- 52
+call.type$ -- 14
+change.case$ -- 109
+chr.to.int$ -- 29
+cite$ -- 13
+duplicate$ -- 2237
+empty$ -- 797
+format.name$ -- 413
+if$ -- 4179
+int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 462
-newline$ -- 152
-num.names$ -- 116
-pop$ -- 522
+missing$ -- 233
+newline$ -- 76
+num.names$ -- 65
+pop$ -- 291
 preamble$ -- 1
-purify$ -- 96
+purify$ -- 48
 quote$ -- 0
-skip$ -- 4111
+skip$ -- 2335
 stack$ -- 1
-substring$ -- 1749
-swap$ -- 1465
-text.length$ -- 33
+substring$ -- 1019
+swap$ -- 819
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
+type$ -- 0
 warning$ -- 0
-while$ -- 177
+while$ -- 100
 width$ -- 0
-write$ -- 457
+write$ -- 215
 (There were 4 warnings)
