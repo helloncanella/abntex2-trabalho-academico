@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  23 SEP 2018 01:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  23 SEP 2018 02:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -900,21 +900,17 @@ File: imagens/vacas.png Graphic file (type png)
 <use imagens/vacas.png>
 Package pdftex.def Info: imagens/vacas.png  used on input line 164.
 (pdftex.def)             Requested size: 210.60185pt x 151.10095pt.
-
-
-LaTeX Warning: Reference `fig:planetario' on page 9 undefined on input line 172.
-
-<imagens/planetario.png, id=162, 497.86pt x 354.32375pt>
+<imagens/planetario.png, id=165, 497.86pt x 354.32375pt>
 File: imagens/planetario.png Graphic file (type png)
 <use imagens/planetario.png>
-Package pdftex.def Info: imagens/planetario.png  used on input line 214.
+Package pdftex.def Info: imagens/planetario.png  used on input line 220.
 (pdftex.def)             Requested size: 204.74861pt x 145.72241pt.
-<imagens/engine.png, id=163, 486.81876pt x 359.3425pt>
+<imagens/engine.png, id=166, 486.81876pt x 359.3425pt>
 File: imagens/engine.png Graphic file (type png)
 <use imagens/engine.png>
-Package pdftex.def Info: imagens/engine.png  used on input line 219.
+Package pdftex.def Info: imagens/engine.png  used on input line 225.
 (pdftex.def)             Requested size: 204.74861pt x 151.13116pt.
-) [9 <./imagens/pipe.jpg>] [10 <./imagens/vacas.png> <./imagens/planetario.png> <./imagens/engine.png>] (./principal.bbl (./principal.brf)
+ [9 <./imagens/pipe.jpg>]) [10 <./imagens/vacas.png> <./imagens/planetario.png> <./imagens/engine.png>] (./principal.bbl (./principal.brf)
 \tf@brf=\write6
 \openout6 = `principal.brf'.
 
@@ -944,26 +940,23 @@ Package rerunfilecheck Info: File `principal.brf' has not changed.
 (rerunfilecheck)             Checksum: 01DBC4BA76E99523E309A46E7CFB9B74;1671.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 16407 strings out of 492649
- 250415 string characters out of 6129623
+ 16403 strings out of 492649
+ 250376 string characters out of 6129623
  519039 words of memory out of 5000000
- 19875 multiletter control sequences out of 15000+600000
- 79396 words of font info for 119 fonts, out of 8000000 for 9000
+ 19872 multiletter control sequences out of 15000+600000
+ 76398 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,12n,43p,1014b,618s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on principal.pdf (13 pages, 3109378 bytes).
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on principal.pdf (13 pages, 3090149 bytes).
 PDF statistics:
- 304 PDF objects out of 1000 (max. 8388607)
+ 303 PDF objects out of 1000 (max. 8388607)
  248 compressed objects within 3 object streams
  42 named destinations out of 1000 (max. 500000)
- 26190 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 25678 words of extra memory for PDF output out of 29859 (max. 10000000)
 
