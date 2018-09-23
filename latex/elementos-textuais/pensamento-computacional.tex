@@ -38,7 +38,7 @@ Em linhas gerais, o aprendizado de máquina (do inglês: \textit{machine learnin
 
 Esse processo tem se provado extremamente eficiente na predição da configuração de sistemas estocásticos. Tomemos por exemplo a necessidade de prever o tempo, onde há dominância de comportamentos turbulentos. Em um estudo recente \apud[]{PhysRevLett.120.024102}{Vutha}, mostrou-se a eficiência do uso de algoritmos de inteligência artificial para previsões ao longo de um período muito maior do que se imaginou possível. Um ponto digno de nota: o algoritmo utilizado não continha nenhuma informação sobre as equações subjacentes. 
 
-Há atualmente questionamentos sobre até que ponto o uso intensivo de `robôs oráculos' levará à perda pelo interesse dos pesquisadores em descrever fenômenos em termos de equações e princípios unificadores. Esse debate é sintetizado pela confronto das noções de ``predição'' e ``entendimento''.
+Há atualmente questionamentos sobre até que ponto o uso intensivo de `robôs oráculos' levará à perda do interesse dos pesquisadores em descrever fenômenos em termos de equações e princípios unificadores. Esse debate é sintetizado pela confronto das noções de ``predição'' e ``entendimento''.
 
 \citeonline[]{Vutha} expõe os elementos desse debate com um exemplo histórico. Como destaca, durante mais de um milênio, o movimento dos planetas eram descritos a partir de um modelo elaborado por Ptolomeu, cujos métodos lançavam mão de cálculos misteriosos envolvendo sobreposição de círculos. Apesar de ignorar a teoria da gravidade e de ter a Terra no centro do Universo, essa representação foi extremamente eficiente na sua capacidade preditiva. Ao mesmo tempo, pode-se dizer que ela era incompleta na medida em que não oferecia nenhum entendimento capaz de explicar o seu funcionamento.
 
@@ -144,7 +144,7 @@ Abstrair, como enfatiza o trecho acima, equivale simplesmente a conduzir um proc
 	\legend{Adaptado de \citeonline[]{Piwek2016}}
 \end{figure}
 
-A figura \ref{fig:pipe} ilustra essa discussão. Nela vemos a obra ``A Traição das Imagens '' por René Magritte (1898-1967), onde lê-se \textit{``Ceci n'est pas une pipe''} (``Isto não é um cachimbo''). Essa provocação evidencia que um modelo nada mais é do que uma representação, e não a realidade em si.
+A figura \ref{fig:pipe} ilustra essa discussão. Nela vemos a obra ``A Traição das Imagens '' por René Magritte (1898-1967), onde lê-se \textit{``Ceci n'est pas une pipe''} (``Isto não é um cachimbo''). Temos aí provocação que evidencia que um modelo nada mais é do que uma representação, e não a realidade em si.
 
 \begin{figure}[htb]
 	\caption{``A Traição das Imagens'' por René Magritte, 1929}
@@ -169,7 +169,74 @@ Na figura \ref{fig:cows} temos a ilustração dessa ideia: a mesma ``realidade''
 
 É interessante notar a proximidade do significado para abstração discutido até aqui com aquele proposto pelo filósofo John Locke, segundo o qual formação de uma abstração corresponde a uma transformação durante a qual ``ideias tomadas de seres particulares se tornam representantes gerais de todos do mesmo tipo'' \apud[p.~354. Tradução nossa]{Locke}{Sengupta2013}.
 
-\citeonline[]{Piwek2016} distingue dois tipos de abstrações: a ``abstração como modelo'', onde detalhes da realidade observada são desconsideradas em favor de outras -- o mesmo trabalhado até aqui -- e a ``abstração como encapsulamento'', a ser desdobrada a seguir. 
+\citeonline[]{Piwek2016} distingue dois tipos de abstrações: a ``abstração como modelo'', onde detalhes da realidade observada são desconsideradas em favor de outras -- o mesmo trabalhado até aqui -- e a ``abstração como encapsulamento'', processo no qual organizamos nosso modelo em módulos ou cápsulas, o que permite a composição de abstrações mais complexas. Na figura \ref{fig:planetario} que ilustram esses conceitos.
+
+% \begin{figure}[htb]
+% 	\caption{Quatro representações de uma vaca por Theo van Doesburg, 1917--1918}
+% 	% \begin{center}
+% 	%     % \includegraphics[scale=0.26]{imagens/vacas.png}
+% 	% 	% \begin{subfigure}{.5\textwidth}
+% 	% 	% 	\centering
+% 	% 	% 	\includegraphics[width=.4\linewidth]{imagens/engine}
+% 	% 	% 	\caption{A subfigure}
+% 	% 	% 	\label{fig:sub1}
+% 	% 	% \end{subfigure}%
+% 	% \end{center}
+% 		\begin{subfigure}{.5\textwidth}
+% 			\centering
+% 			\includegraphics[width=.4\linewidth]{imagens/engine}
+% 			\caption{A subfigure}
+% 			\label{fig:sub2}
+% 		\end{subfigure}
+% 	\legend{Fonte: \citeonline[]{Piwek2016}}
+% 	\label{fig:planetario}
+% \end{figure}
+% \begin{figure}[htbp]
+%   \begin{minipage}[b]{0.49\linewidth}
+%     \centering
+%     \includegraphics[width=\linewidth]{imagens/engine}
+%     \caption{The caption for figure 1}
+%     \label{fig:chapter001_dist_001}
+%   \end{minipage}
+%   % \hspace{0.02\linewidth}
+%   \begin{minipage}[b]{0.49\linewidth}
+%     \centering
+%     \includegraphics[width=\linewidth]{imagens/engine}
+%     \caption{The caption for figure 2.}
+%     \label{fig:chapter001_reward_001}
+%   \end{minipage}
+% \end{figure}
+
+
+\begin{figure}
+    \centering
+    \begin{subfigure}[b]{0.45\textwidth}
+        \includegraphics[width=\textwidth]{imagens/planetario}
+        \caption{Interface}
+        \label{fig:gull}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.45\textwidth}
+        \includegraphics[width=\textwidth]{imagens/engine}
+        \caption{Componente}
+        \label{fig:tiger}
+    \end{subfigure}
+    \caption{Planetário mecânico}\label{fig:animals}
+\end{figure}
+
+
+
+% $$divisão(2,3)$$
+
+
+
+
+
+
+
+
+
+
+
 
 % Além de permitir a construções de modelos (abstração como modelos), a construção de abstrações agrupam outro conceito: `abstração'
 
