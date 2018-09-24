@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: __latexindent_temp.aux
+A level-1 auxiliary file: elementos-textuais/pensamento-computacional.aux
+The style file: abntex2-alf.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: abntex2-options.bib
+Database file #2: elementos-postextuais/referencias.bib
+Warning--entry type for "Hatch" isn't style-file defined
+--line 52 of file elementos-postextuais/referencias.bib
+Warning--entry type for "Bloomberg" isn't style-file defined
+--line 59 of file elementos-postextuais/referencias.bib
+Warning--entry type for "Escobar" isn't style-file defined
+--line 78 of file elementos-postextuais/referencias.bib
+Warning--entry type for "Vutha" isn't style-file defined
+--line 88 of file elementos-postextuais/referencias.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 14 entries,
+            6714 wiz_defined-function locations,
+            1298 strings with 12027 characters,
+and the built_in function-call counts, 21297 in all, are:
+= -- 2628
+> -- 278
+< -- 605
++ -- 731
+- -- 86
+* -- 1252
+:= -- 2650
+add.period$ -- 52
+call.type$ -- 14
+change.case$ -- 109
+chr.to.int$ -- 29
+cite$ -- 13
+duplicate$ -- 2237
+empty$ -- 797
+format.name$ -- 413
+if$ -- 4179
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 233
+newline$ -- 76
+num.names$ -- 65
+pop$ -- 291
+preamble$ -- 1
+purify$ -- 48
+quote$ -- 0
+skip$ -- 2335
+stack$ -- 1
+substring$ -- 1019
+swap$ -- 819
+text.length$ -- 21
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 100
+width$ -- 0
+write$ -- 215
+(There were 4 warnings)

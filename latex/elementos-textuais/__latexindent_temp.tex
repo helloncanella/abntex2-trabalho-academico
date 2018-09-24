@@ -79,7 +79,7 @@ Novas descobertas levam a novas perguntas que exigem mais coleta de dados. Quand
 	\legend{Adaptado de \citeonline[]{wing2008}}
 \end{figure}
 
-O barateamento dos custos de produção científica é outro aspecto relevante dessas transformações. À medida que a internet e dados, consequentemente, se tornam mais acessíveis, qualquer pessoa com boas ideias e bons hábitos de trabalho, de qualquer lugar, pode fazer ciência de primeira linha, comunicar seus resultados e aprender com a comunidade científica. Essa possibilidade é especialmente benéfica para países e instituições que não dispõem de instalações sofisticadas \cite[]{Djorgovski2005}. 
+O barateamento dos custos de produção científica é outro aspecto relevante dessas transformações. À medida que a internet e dados, consequentemente, se tornam mais acessíveis, qualquer pessoa com boas ideias e bons hábitos de trabalho, de qualquer lugar, pode fazer ciência de primeira linha, comunicar seus resultados e aprender com a comunidade científica. Essa possibilidade é especialmente benéfica para países e instituições que não dispõem de instalações de pesquisa sofisticadas \cite[]{Djorgovski2005}. 
 
 Sobre o papel da ciência da computação no desenvolvimento científico, \citeonline[]{Djorgovski2005} faz um consideração provocativa: 
 
@@ -128,7 +128,7 @@ A tarefa de definir as instâncias de um problema equivale a delimitar qual é o
 
 A definição clara das instâncias do problema (criação de um problema computacional) e dos passos exatos para sua solução\footnote{Ao tratarmos computacionalmente um problema devemos ser capazes também de distinguir quando e porque, eventualmente, ele não tem solução.} (elaboração de um algoritmo) nos permitirá automatizar a sua execução por um computador. E é exatamente nessas duas habilidades, conforme definição dada anteriormente, que se apoiam o pensamento computacional.
 
-A noção de abstração é outro componente que necessita ser compreendido ao tratarmos do pensamento computacional. Nas palavras de \citeonline{wing2006},
+A noção de abstração é outro componente que necessita ser compreendido ao tratarmos do assunto. Nas palavras de \citeonline{wing2006},
 
 \begin{citacao}
 A abstração é usada na definição de padrões, generalização de instâncias e parametrização. É usado para deixar um objeto representar muitos. Ele é usado para capturar propriedades essenciais comuns a um conjunto de objetos enquanto oculta distinções irrelevantes entre eles \cite[p.~1. Tradução nossa]{wing2006}
@@ -169,65 +169,43 @@ Na figura \ref{fig:cows} temos a ilustração dessa ideia: a mesma ``realidade''
 
 É interessante notar a proximidade do significado para abstração discutido até aqui com aquele proposto pelo filósofo John Locke, segundo o qual formação de uma abstração corresponde a uma transformação durante a qual ``ideias tomadas de seres particulares se tornam representantes gerais de todos do mesmo tipo'' \apud[p.~354. Tradução nossa]{Locke}{Sengupta2013}.
 
-\citeonline[]{Piwek2016} distingue dois tipos de abstrações: a ``abstração como modelo'', onde detalhes da realidade observada são desconsideradas em favor de outras -- o mesmo trabalhado até aqui -- e a ``abstração como encapsulamento'', processo no qual organizamos nosso modelo em módulos ou cápsulas, o que permite a composição de abstrações mais complexas. 
-
-A figura \ref{fig:planetario} vemos uma boa distinção desses conceitos. Em \ref{fig:interface}, temos um planetário mecânico que pode ser tomado como um modelo para sistema solar, o que materializa a ideia de ``abstração como modelo''. Em \ref{fig:componente}, temos um 
+\citeonline[]{Piwek2016} distingue dois tipos de abstrações: a ``abstração como modelo'', onde detalhes da realidade observada são desconsideradas em favor de outras -- o mesmo trabalhado até aqui -- e a ``abstração como encapsulamento'', processo no qual organizamos nosso modelo em módulos ou cápsulas que permitem a composição de sistemas mais complexos. 
 
 
 
-
-
-% \begin{figure}[htb]
-% 	\caption{Quatro representações de uma vaca por Theo van Doesburg, 1917--1918}
-% 	% \begin{center}
-% 	%     % \includegraphics[scale=0.26]{imagens/vacas.png}
-% 	% 	% \begin{subfigure}{.5\textwidth}
-% 	% 	% 	\centering
-% 	% 	% 	\includegraphics[width=.4\linewidth]{imagens/engine}
-% 	% 	% 	\caption{A subfigure}
-% 	% 	% 	\label{fig:sub1}
-% 	% 	% \end{subfigure}%
-% 	% \end{center}
-% 		\begin{subfigure}{.5\textwidth}
-% 			\centering
-% 			\includegraphics[width=.4\linewidth]{imagens/engine}
-% 			\caption{A subfigure}
-% 			\label{fig:sub2}
-% 		\end{subfigure}
-% 	\legend{Fonte: \citeonline[]{Piwek2016}}
-% 	\label{fig:planetario}
-% \end{figure}
-% \begin{figure}[htbp]
-%   \begin{minipage}[b]{0.49\linewidth}
-%     \centering
-%     \includegraphics[width=\linewidth]{imagens/engine}
-%     \caption{The caption for figure 1}
-%     \label{fig:chapter001_dist_001}
-%   \end{minipage}
-%   % \hspace{0.02\linewidth}
-%   \begin{minipage}[b]{0.49\linewidth}
-%     \centering
-%     \includegraphics[width=\linewidth]{imagens/engine}
-%     \caption{The caption for figure 2.}
-%     \label{fig:chapter001_reward_001}
-%   \end{minipage}
-% \end{figure}
-
+Para diferenciarmos esses dois tipos tomemos como ponto de partida o planetário mecânico ilustrado na figura \ref{fig:planetario}. Nele vemos uma simulação\footnote{Usamos o termo \textbf{simulação} para nos referir a modelos que incorporam uma representação da evolução temporal de um processo ou sistema.} do sistema solar, um modelo, que como tal ignora certas aspectos da realidade. Neste caso em específico temos a desconsideração típica de representações astronômicas onde as proporções entre as dimensões dos planetas e a distância relativas entre eles é extremamente grande. A construção de modelos, ignorando e incorporando detalhes, é o que \citeonline{Piwek2016} chama de ``abstração como modelo''. 
 
 \begin{figure}[htb]
-    \centering
-    \begin{subfigure}[b]{0.45\textwidth}
-        \includegraphics[width=\textwidth]{imagens/planetario}
-        \caption{Interface}
-        \label{fig:interface}
-    \end{subfigure}
-    \begin{subfigure}[b]{0.45\textwidth}
-        \includegraphics[width=\textwidth]{imagens/engine}
-        \caption{Componente}
-        \label{fig:componente}
-    \end{subfigure}
-    \caption{Planetário mecânico}\label{fig:planetario}
+	\caption{Planetário mecânico}\label{fig:planetario}
+	\begin{center}
+		\includegraphics[width=0.50\textwidth]{imagens/planetario}
+	\end{center}
+	\legend{Fonte: \citeonline{Piwek2016}}
 \end{figure}
+
+O mesmo dispositivo incorpora a noção do que o autor chama de ``abstração como encapsulamento''. Na figura \ref{fig:engine} vemos um sistema de rodas dentadas típico do que podemos encontrar no interior de um planetário mecânico. São elas que permitem o movimento das esferas que representam os planetas. A superfície metálica que vemos na figura \ref{fig:planetario} cumprem o papel de interface do modelo ao escondê-las, deixando externamente visível apenas o que é relevante: o movimento de translação e rotação. 
+
+\begin{figure}[!htb]
+	\caption{Engrenagem de um planetário mecânico}\label{fig:engine}
+	\begin{center}
+		\includegraphics[width=0.50\textwidth]{imagens/engine}
+	\end{center}
+	\legend{Fonte: \citeonline{Piwek2016}}
+\end{figure}
+
+Distingue-se assim a formação de duas camadas durante o processo de encapsulamento: a interface com a qual se pode interagir com o modelo (o invólucro metálico do planetário) e a sua implementação propriamente dita (sistema de engrenagens encerradas pela interface). A figura \ref{fig:encapsulamento} ilustra a relação entre elas.
+
+\begin{figure}[!htb]
+	\caption{Interface e implementação - dois aspectos de um modelo}\label{fig:encapsulamento}
+	\begin{center}
+		\includegraphics[scale=0.55]{imagens/encapsulamento}
+	\end{center}
+	\legend{Fonte: \citeonline{Piwek2016}}
+\end{figure}
+
+
+
+
 
 
 
@@ -281,31 +259,8 @@ A figura \ref{fig:planetario} vemos uma boa distinção desses conceitos. Em \re
 
 
 
-%Podemos discutir o significado 
-
-%De um ponto de vista filo
 
 
 
 
-%. Nas palavras da autora, 
-
-%Um dos elementos que ganha centralidade na sua proposta é a noção de abstração. 
-
-
-% O emprego dessa expressão contudo não é nova.
-
-
-
-% Aprendizado de máquina, ou simplesmente inteligência artificial, basea-se grosso modo 
-
-% Outra idéia levemente provocativa é que a ciência da computação aplicada está desempenhando o papel que a matemática fez do século XVII ao século XX: fornecer uma estrutura ordenada e formal e um aparato exploratório para outras ciências. Além de seu aparentemente feliz caso com a teoria das cordas, é difícil dizer o que a matemática está fazendo para outras ciências hoje; A maioria dos cientistas de matemática que utilizamos hoje foi desenvolvida há mais de um século.
-
-% Recente avanços na computação de alta velocidade e em metdos analiticos criou ferramentas poderas para entender fenomenos em todos os espectros do pensamento humano (human inquiry)
-
-%Wing(2006) argumenta que o pensamento computacional se tornaria fundamental pra todas as disicplinas que os avanços na computação habilitaria pesquisadores para desenvolver (envision) novas estrategias de resolução de problemas e teste de novas soluções.
-
-%Todo o desenvolvimento científico até meados do século 20 se deu a partir do uso atividades analiticas e experimentais.
-
-%**Simulação e modelagem computacional**
 
