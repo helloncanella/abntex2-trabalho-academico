@@ -127,6 +127,16 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/nomencl/nomencl.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/nomencl/nomencl.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/backref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/backref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/abntex2/abntex2cite.sty
@@ -243,6 +253,7 @@ INPUT ./imagens/engine.png
 INPUT imagens/encapsulamento.png
 INPUT ./imagens/encapsulamento.png
 INPUT ./imagens/encapsulamento.png
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT principal.bbl
 INPUT principal.bbl
 INPUT principal.brf
@@ -260,6 +271,7 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb

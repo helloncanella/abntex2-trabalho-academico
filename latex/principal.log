@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  24 SEP 2018 02:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  25 SEP 2018 01:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -686,25 +686,79 @@ Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
 \nomlabelwidth=\dimen171
 \nom@tempdim=\dimen172
 \nomitemsep=\skip263
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip264
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks30
+\ex@=\dimen173
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen174
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box32
+\strutbox@=\box33
+\big@size=\dimen175
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip11
+\c@parentequation=\count194
+\dspbrk@lvl=\count266
+\tag@help=\toks31
+\row@=\count267
+\column@=\count268
+\maxfields@=\count269
+\andhelp@=\toks32
+\eqnshift@=\dimen176
+\alignsep@=\dimen177
+\tagshift@=\dimen178
+\tagwidth@=\dimen179
+\totwidth@=\dimen180
+\lineht@=\dimen181
+\@envbody=\toks33
+\multlinegap=\skip265
+\multlinetaggap=\skip266
+\mathdisplay@stack=\toks34
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/backref.sty
 Package: backref 2016/05/21 v1.39 Bibliographical back referencing
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/abntex2/abntex2cite.sty
 Package: abntex2cite 2016/02/26 v-1.9.6 abnTeX2
  (/usr/local/texlive/2018/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
-\minimumbiblabelwidth=\skip264
-\ABCIauxlen=\skip265
-\c@ABCIaux=\count187
-\c@ABCImax=\count188
+\minimumbiblabelwidth=\skip267
+\ABCIauxlen=\skip268
+\c@ABCIaux=\count270
+\c@ABCImax=\count271
  (/usr/local/texlive/2018/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
-\biblabelsep=\skip266
+\biblabelsep=\skip269
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
-\ABCItoken=\toks30
+\ABCItoken=\toks35
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count189
+\c@lips@count=\count272
 )) (./elementos-pretextuais/capa.tex)
 Package color Info: Redefining color blue on input line 44.
 Package hyperref Info: Option `colorlinks' set `true' on input line 61.
@@ -738,14 +792,14 @@ LaTeX Font Info:    Try loading font information for T1+lmr on input line 78.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\AtBeginShipoutBox=\box32
+\AtBeginShipoutBox=\box34
 Package hyperref Info: Link coloring ON on input line 78.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count190
+\c@section@level=\count273
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -756,24 +810,24 @@ LaTeX Info: Redefining \nameref on input line 78.
 LaTeX Info: Redefining \degres on input line 78.
 LaTeX Info: Redefining \dots on input line 78.
 LaTeX Info: Redefining \up on input line 78.
-\myptabbox=\box33
-\myptabboxwidth=\skip267
+\myptabbox=\box35
+\myptabboxwidth=\skip270
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 78.
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count191
-\scratchdimen=\dimen173
-\scratchbox=\box34
-\nofMPsegments=\count192
-\nofMParguments=\count193
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count194
-\MPscratchDim=\dimen174
-\MPnumerator=\count266
-\makeMPintoPDFobject=\count267
-\everyMPtoPDFconversion=\toks32
+\scratchcounter=\count274
+\scratchdimen=\dimen182
+\scratchbox=\box36
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen183
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks37
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -799,7 +853,7 @@ Package microtype Info: No adjustment of character kerning.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-\c@lstlisting=\count268
+\c@lstlisting=\count280
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 89.
@@ -816,38 +870,38 @@ Package microtype Info: Loading generic protrusion settings for font family
 \openout2 = `elementos-textuais/pensamento-computacional.aux'.
 
  (./elementos-textuais/pensamento-computacional.tex
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 15.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 16.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 15.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 16.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 15.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 16.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 15.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 16.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 15.
+(Font)              <12> on input line 16.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 15.
+(Font)              <8> on input line 16.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 15.
+(Font)              <6> on input line 16.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 16.
+(Font)              <10> on input line 17.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 16.
+(Font)              <7> on input line 17.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 16.
+(Font)              <5> on input line 17.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.26 
+l.27 
       [1
 
 
@@ -857,67 +911,71 @@ l.26
 <imagens/ptolemy.jpg, id=60, 552.0625pt x 550.055pt>
 File: imagens/ptolemy.jpg Graphic file (type jpg)
 <use imagens/ptolemy.jpg>
-Package pdftex.def Info: imagens/ptolemy.jpg  used on input line 48.
+Package pdftex.def Info: imagens/ptolemy.jpg  used on input line 49.
 (pdftex.def)             Requested size: 276.03056pt x 275.02682pt.
  [3 <./imagens/ptolemy.jpg>]
 <imagens/waymo.jpg, id=77, 1505.625pt x 1003.75pt>
 File: imagens/waymo.jpg Graphic file (type jpg)
 <use imagens/waymo.jpg>
-Package pdftex.def Info: imagens/waymo.jpg  used on input line 65.
+Package pdftex.def Info: imagens/waymo.jpg  used on input line 66.
 (pdftex.def)             Requested size: 376.40533pt x 250.93689pt.
  [4 <./imagens/waymo.jpg>]
 <imagens/forcas_motriz.png, id=86, 803.0pt x 405.515pt>
 File: imagens/forcas_motriz.png Graphic file (type png)
 <use imagens/forcas_motriz.png>
-Package pdftex.def Info: imagens/forcas_motriz.png  used on input line 77.
+Package pdftex.def Info: imagens/forcas_motriz.png  used on input line 78.
 (pdftex.def)             Requested size: 224.83847pt x 113.54341pt.
  [5 <./imagens/forcas_motriz.png>]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 105.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 106.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 105.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 106.
 <imagens/algorithm.png, id=111, 399.4925pt x 463.7325pt>
 File: imagens/algorithm.png Graphic file (type png)
 <use imagens/algorithm.png>
-Package pdftex.def Info: imagens/algorithm.png  used on input line 113.
+Package pdftex.def Info: imagens/algorithm.png  used on input line 114.
 (pdftex.def)             Requested size: 399.49152pt x 463.73135pt.
  [6] [7 <./imagens/algorithm.png>]
 <imagens/modelo_e_realidade.png, id=136, 591.20876pt x 322.20375pt>
 File: imagens/modelo_e_realidade.png Graphic file (type png)
 <use imagens/modelo_e_realidade.png>
-Package pdftex.def Info: imagens/modelo_e_realidade.png  used on input line 142.
+Package pdftex.def Info: imagens/modelo_e_realidade.png  used on input line 143.
 (pdftex.def)             Requested size: 384.28113pt x 209.42995pt.
  [8 <./imagens/modelo_e_realidade.png>]
 <imagens/pipe.jpg, id=149, 347.3778pt x 242.1045pt>
 File: imagens/pipe.jpg Graphic file (type jpg)
 <use imagens/pipe.jpg>
-Package pdftex.def Info: imagens/pipe.jpg  used on input line 152.
+Package pdftex.def Info: imagens/pipe.jpg  used on input line 153.
 (pdftex.def)             Requested size: 260.53271pt x 181.57793pt.
 <imagens/vacas.png, id=151, 810.02625pt x 581.17125pt>
 File: imagens/vacas.png Graphic file (type png)
 <use imagens/vacas.png>
-Package pdftex.def Info: imagens/vacas.png  used on input line 164.
+Package pdftex.def Info: imagens/vacas.png  used on input line 165.
 (pdftex.def)             Requested size: 210.60185pt x 151.10095pt.
  [9 <./imagens/pipe.jpg>]
 <imagens/planetario.png, id=175, 497.86pt x 354.32375pt>
 File: imagens/planetario.png Graphic file (type png)
 <use imagens/planetario.png>
-Package pdftex.def Info: imagens/planetario.png  used on input line 181.
+Package pdftex.def Info: imagens/planetario.png  used on input line 182.
 (pdftex.def)             Requested size: 227.5pt x 161.915pt.
  [10 <./imagens/vacas.png> <./imagens/planetario.png>]
 <imagens/engine.png, id=192, 486.81876pt x 359.3425pt>
 File: imagens/engine.png Graphic file (type png)
 <use imagens/engine.png>
-Package pdftex.def Info: imagens/engine.png  used on input line 191.
+Package pdftex.def Info: imagens/engine.png  used on input line 192.
 (pdftex.def)             Requested size: 227.5pt x 167.92596pt.
 <imagens/encapsulamento.png, id=198, 612.2875pt x 352.31625pt>
 File: imagens/encapsulamento.png Graphic file (type png)
 <use imagens/encapsulamento.png>
-Package pdftex.def Info: imagens/encapsulamento.png  used on input line 201.
+Package pdftex.def Info: imagens/encapsulamento.png  used on input line 202.
 (pdftex.def)             Requested size: 336.75917pt x 193.77454pt.
-) [11 <./imagens/engine.png> <./imagens/encapsulamento.png>] (./principal.bbl (./principal.brf)
+ [11 <./imagens/engine.png> <./imagens/encapsulamento.png>]
+
+LaTeX Warning: Citation `Schimidt' on page 12 undefined on input line 221.
+
+) [12] (./principal.bbl (./principal.brf)
 \tf@brf=\write6
 \openout6 = `principal.brf'.
 
@@ -932,19 +990,22 @@ Overfull \hbox (23.59468pt too wide) in paragraph at lines 23--23
 \T1/lmr/m/n/12 (-20) arti^^\cial-[]intelligence-[]heres-[]what-[]you-[]need-[]to-[]know-[]to-[]understand-[]how-[]machines-[]learn-[]72004>[]$[][]. 
  []
 
-[12
+[13
 
 
 ]) 
 AED: lastpage setting LastPage
-[13]
+[14]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 225.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
  (./principal.aux (./elementos-textuais/pensamento-computacional.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
 Package rerunfilecheck Info: File `principal.brf' has not changed.
-(rerunfilecheck)             Checksum: C43741F54ED3B9A36B015332B6AE8A86;1871.
+(rerunfilecheck)             Checksum: FD25316B9CDEB53494898B76A918EF3E;1922.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -952,18 +1013,18 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 16403 strings out of 492649
- 250393 string characters out of 6129623
- 519088 words of memory out of 5000000
- 19868 multiletter control sequences out of 15000+600000
- 76320 words of font info for 117 fonts, out of 8000000 for 9000
+ 17011 strings out of 492649
+ 257475 string characters out of 6129623
+ 530499 words of memory out of 5000000
+ 20449 multiletter control sequences out of 15000+600000
+ 79670 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,12n,41p,1014b,618s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on principal.pdf (14 pages, 3131589 bytes).
+ 48i,12n,41p,1014b,625s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on principal.pdf (15 pages, 3156795 bytes).
 PDF statistics:
- 334 PDF objects out of 1000 (max. 8388607)
- 269 compressed objects within 3 object streams
- 46 named destinations out of 1000 (max. 500000)
- 24147 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 344 PDF objects out of 1000 (max. 8388607)
+ 277 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 24659 words of extra memory for PDF output out of 24883 (max. 10000000)
 

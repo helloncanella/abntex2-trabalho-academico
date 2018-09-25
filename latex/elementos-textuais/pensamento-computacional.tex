@@ -1,3 +1,4 @@
+
 \chapter{Pensamento Computacional}\label{pensamento-computacional}
 
 \section{Computadores e as transformações na prática científica}
@@ -183,7 +184,7 @@ Para diferenciarmos esses dois tipos tomemos como ponto de partida o planetário
 	\legend{Fonte: \citeonline{Piwek2016}}
 \end{figure}
 
-O mesmo dispositivo incorpora a noção do que o autor chama de ``abstração como encapsulamento''. Na figura \ref{fig:engine} vemos um sistema de rodas dentadas típico do que podemos encontrar no interior de um planetário mecânico. São elas que permitem o movimento das esferas que representam os planetas. A superfície metálica que vemos na figura \ref{fig:planetario} cumprem o papel de interface do modelo ao escondê-las, deixando externamente visível apenas o que é relevante: o movimento de translação e rotação. 
+O mesmo dispositivo incorpora a noção do que o autor chama de ``abstração como encapsulamento''. Na figura \ref{fig:engine} vemos um sistema de rodas dentadas típico do que podemos encontrar no interior de um planetário mecânico. São elas que permitem o movimento das esferas que representam os planetas. A superfície metálica que vemos na figura \ref{fig:planetario} cumpre o papel de interface do modelo ao escondê-las, deixando externamente visível apenas o que é relevante: o movimento de translação e rotação. 
 
 \begin{figure}[!htb]
 	\caption{Engrenagem de um planetário mecânico}\label{fig:engine}
@@ -202,6 +203,25 @@ Distingue-se assim a formação de duas camadas durante o processo de encapsulam
 	\end{center}
 	\legend{Fonte: \citeonline{Piwek2016}}
 \end{figure}
+
+O uso do encapsulamento é essencial na ciência da computação. Nesse contexto, essa estratégia toma forma em funções e estrutura de dados\footnote{Por estrutura de dados nos referimos às diversas possibilidade de organização e relacionamento de dados que uma linguagem oferece. Dentre as mais comuns estão os vetores, as listas, as pilhas...}. Tomemos um exemplo envolvendo funções. Considere a necessidade de calcularmos a seguinte expressão: 
+
+$$\dfrac{(2+3+5 \times 7)}{5}$$
+
+Usando uma linguagem de programação poderíamos reescrever a equação acima do seguinte modo:
+
+\begin{equation*}
+	\boxed{razao(\boxed{soma(2,3,\boxed{producto(5,7)})},5)}
+\end{equation*}
+
+Perceba a formação de cápsulas. Por exemplo, aos escrevermos $produto(a,b,c \dots)$, estamos modularizando o processo de multiplicação, pois todos os detalhes dessa operação estão invisibilizados atrás de uma interface, cujo nome decidimos chamar como ``produto''. Aplica-se o mesmo raciocínio aos casos das funções $soma(a, b, c...)$ e $razao(a,b)$.
+
+A decomposição de modelos ou sistema pode ganhar tantas unidades quanto se queira, até atingirmos o nível binário (0 e 1s). É exatamente na possibilidade de aplicação recursiva dessa estratégia que a construção de sistemas complexos se tornam viáveis.
+
+De fato, como ressalta \citeonline{Schimidt}
+
+
+
 
 
 
