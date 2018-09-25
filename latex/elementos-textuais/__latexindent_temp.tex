@@ -216,9 +216,47 @@ Usando uma linguagem de programação poderíamos reescrever a equação acima d
 
 Perceba a formação de cápsulas. Por exemplo, aos escrevermos $produto(a,b,c \dots)$, estamos modularizando o processo de multiplicação, pois todos os detalhes dessa operação estão invisibilizados atrás de uma interface, cujo nome decidimos chamar como ``produto''. Aplica-se o mesmo raciocínio aos casos das funções $soma(a, b, c...)$ e $razao(a,b)$.
 
-A decomposição de modelos ou sistema pode ganhar tantas unidades quanto se queira, até atingirmos o nível binário (0 e 1s). É exatamente na possibilidade de aplicação recursiva dessa estratégia que a construção de sistemas complexos se tornam viáveis.
+A decomposição do modelo ou sistema pode ganhar tantas unidades quanto se queira, até atingirmos o nível binário (0 e 1s). É exatamente na possibilidade de aplicação recursiva dessa estratégia que a construção de sistemas complexos se tornam viáveis. Esse aspecto é ilustrado na figura \ref{fig:recursividade}.
 
-De fato, como ressalta \citeonline{Schimidt}
+\begin{figure}[!htb]
+	\caption{Decomposição em camadas de um sistema}\label{fig:recursividade}
+	\begin{center}
+		\includegraphics[scale=0.55]{imagens/recursividade}
+	\end{center}
+	\legend{Fonte: \citeonline{Piwek2016}}
+\end{figure}
+
+% De fato, como ressalta \citeonline{Schimidt}, pesquisadores e desenvolvedores programam criand
+
+% Schmidt (2006) aponta que os pesquisadores e desenvolvedores de software normalmente se envolvem na criação de abstrações que os ajudam a programar em termos de seus objetivos de design contextualizados (por exemplo, o problema específico que eles estão resolvendo) em vez do ambiente computacional subjacente (por exemplo, CPU , memória e dispositivos de rede) e protege-os das complexidades desses ambientes.
+
+% O encapsulamento favorece a construção de programas na medida que permite que desenvolvedores expressem seu raciocínio em termos de unidades representativas, ajustando o foco da sua atenção para aspectos do problema que estão resolvendo e permitindo que ignorem as complexidades próprias do ambiente computacional com que estão trabalhando. 
+
+De fato, ao encapsular, programadores buscam expressar-se apenas em termos de unidades representativas. Essa tática permite a eles raciocinar somente em termos do problema que estão resolvendo, e os protege assim das complexidades próprias do ambiente computacional com que estão trabalhando, tal como a necessidade de administrar diretamente o uso da memória, por exemplo. Ao mesmo tempo, por favorecer a organização e a estruturação lógica do código fonte, como vantagem adicional essa abordagem facilita manutenções futuras do sistema. 
+
+Todo o desenvolvimento da computação está assentado na decomposição modular de sistemas. Celulares, computadores, sistemas operacionais, automóveis... Toda e qualquer tecnologia operada por dispositivos eletrônicos. Há exemplos históricos, contudo, onde esse princípio é aplicado apesar de não haver nenhum substrato eletrônico. Na figura \ref{fig:meccano} vemos o primeiro computador programável, desenvolvido com o propósito de executar operações matemáticas. Conhecido como Meccano, ele foi proposto por Charles Babbage (1791--1871). Movido a vapor, sua construção foi feita em latão e ferro. 
+
+\begin{figure}[!htb]
+	\caption{Meccano -- Implementação do primeiro computador programável proposto por Charles Babbage }\label{fig:meccano}
+	\begin{center}
+		\includegraphics[scale=0.45]{imagens/babbage}
+	\end{center}
+	\legend{Fonte: \citeonline{Piwek2016}}
+\end{figure}
+
+
+
+
+
+
+
+
+
+
+
+
+
+% De fato, ao permitir a formação de unidades representativas (ou módulos), o encapsulamento permitem ao que os dese
 
 
 
