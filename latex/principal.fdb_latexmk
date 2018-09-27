@@ -1,19 +1,19 @@
 # Fdb version 3
-["bibtex principal"] 1537858022 "principal.aux" "principal.bbl" "principal" 1537858383
+["bibtex principal"] 1538016076 "principal.aux" "principal.bbl" "principal" 1538016945
   "/usr/local/texlive/2018/texmf-dist/bibtex/bib/abntex2/abntex2-options.bib" 1480098425 5396 4eb260dac60f150ae608d45252853090 ""
   "/usr/local/texlive/2018/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst" 1480098433 60064 6469892b646cc99dbd8ecd5e965537d8 ""
   "elementos-postextuais/referencias.bib" 1537418324 28429 083aebfc9b9737f0010678572f9597a8 ""
-  "elementos-textuais/pensamento-computacional.aux" 1537858382 10776 fd39f379962e0889ca334537c4e52c7e ""
-  "principal.aux" 1537858382 3960 537b53473aa258a02e7ce67e799d4eb9 ""
+  "elementos-textuais/pensamento-computacional.aux" 1538016944 10866 fd524e7052e203c262718e3d91f09657 ""
+  "principal.aux" 1538016944 3960 537b53473aa258a02e7ce67e799d4eb9 ""
   (generated)
   "principal.bbl"
   "principal.blg"
-["makeindex principal.idx"] 1537857701 "principal.idx" "principal.ind" "principal" 1537858383
-  "principal.idx" 1537858381 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex principal.idx"] 1537857701 "principal.idx" "principal.ind" "principal" 1538016945
+  "principal.idx" 1538016943 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "principal.ind"
   "principal.ilg"
-["pdflatex"] 1537858380 "/Users/helloncanella/Dropbox/monografia/latex/principal.tex" "principal.pdf" "principal" 1537858383
+  "principal.ind"
+["pdflatex"] 1538016942 "/Users/helloncanella/Dropbox/monografia/latex/principal.tex" "principal.pdf" "principal" 1538016945
   "/Users/helloncanella/Dropbox/monografia/latex/principal.tex" 1537677482 7936 d9c1789ebda02cb62d4bb8a1573829cb ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1480098668 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1480098668 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -151,8 +151,8 @@
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1531180459 4220279 8f817d91b74fcb649d19519ce6d8b049 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "elementos-pretextuais/capa.tex" 1537509256 752 e57407c4fcd86a4d56767190b29ce3a2 ""
-  "elementos-textuais/pensamento-computacional.aux" 1537858382 10776 fd39f379962e0889ca334537c4e52c7e ""
-  "elementos-textuais/pensamento-computacional.tex" 1537858379 27965 b27ed250b38f1fc305f3bc32d311b324 ""
+  "elementos-textuais/pensamento-computacional.aux" 1538016944 10866 fd524e7052e203c262718e3d91f09657 ""
+  "elementos-textuais/pensamento-computacional.tex" 1538016911 27332 66855d8252f2bfd485acc7e90da9f81e ""
   "imagens/algorithm.png" 1537415732 124597 822a81af74e5a6037f71f25ba6cdb3f9 ""
   "imagens/babbage.jpg" 1537856729 74635 2b65f95f8001b80194025c30443fda29 ""
   "imagens/encapsulamento.png" 1537766581 27762 997ac3e79af6fcce9e8a37d4de8c1356 ""
@@ -166,16 +166,16 @@
   "imagens/vacas.png" 1537504517 521055 cc37869a9b0dc633928b2b6bfe8a647d ""
   "imagens/waymo.jpg" 1536719509 294643 75e82a4901cca60675bfe486e09fd917 ""
   "pacotes.tex" 1537846721 1706 e8bed808c05983a47c74b1b25759895a ""
-  "principal.aux" 1537858382 3960 537b53473aa258a02e7ce67e799d4eb9 ""
-  "principal.bbl" 1537858022 3848 d914d1d7e1abf7dda50648ca077fbd2e "bibtex principal"
-  "principal.brf" 1537858382 1973 f33fd0fc590afbf62111fabe27569ac1 ""
+  "principal.aux" 1538016944 3960 537b53473aa258a02e7ce67e799d4eb9 ""
+  "principal.bbl" 1538016076 3848 d914d1d7e1abf7dda50648ca077fbd2e "bibtex principal"
+  "principal.brf" 1538016944 2025 d803c96617279332a855acc1289663ac ""
   "principal.ind" 1537857701 0 d41d8cd98f00b204e9800998ecf8427e "makeindex principal.idx"
   "principal.tex" 1537677482 7936 d9c1789ebda02cb62d4bb8a1573829cb ""
   (generated)
-  "elementos-textuais/pensamento-computacional.aux"
-  "principal.aux"
-  "principal.nlo"
-  "principal.brf"
   "principal.log"
   "principal.idx"
+  "principal.brf"
+  "principal.nlo"
+  "principal.aux"
+  "elementos-textuais/pensamento-computacional.aux"
   "principal.pdf"
