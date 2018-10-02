@@ -154,6 +154,8 @@ OUTPUT principal.idx
 OUTPUT principal.nlo
 INPUT principal.aux
 INPUT principal.aux
+INPUT elementos-textuais/computadores-e-a-pratica-cientifica.aux
+INPUT elementos-textuais/computadores-e-a-pratica-cientifica.aux
 INPUT elementos-textuais/pensamento-computacional.aux
 INPUT elementos-textuais/pensamento-computacional.aux
 OUTPUT principal.aux
@@ -183,10 +185,9 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
 INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-OUTPUT elementos-textuais/pensamento-computacional.aux
-INPUT elementos-textuais/pensamento-computacional.tex
-INPUT elementos-textuais/pensamento-computacional.tex
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
+OUTPUT elementos-textuais/computadores-e-a-pratica-cientifica.aux
+INPUT elementos-textuais/computadores-e-a-pratica-cientifica.tex
+INPUT elementos-textuais/computadores-e-a-pratica-cientifica.tex
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -229,6 +230,10 @@ INPUT ./imagens/waymo.jpg
 INPUT imagens/forcas_motriz.png
 INPUT ./imagens/forcas_motriz.png
 INPUT ./imagens/forcas_motriz.png
+OUTPUT elementos-textuais/pensamento-computacional.aux
+INPUT elementos-textuais/pensamento-computacional.tex
+INPUT elementos-textuais/pensamento-computacional.tex
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
 INPUT imagens/algorithm.png
@@ -267,6 +272,8 @@ INPUT ./principal.brf
 INPUT ./principal.brf
 OUTPUT principal.brf
 INPUT principal.aux
+INPUT elementos-textuais/computadores-e-a-pratica-cientifica.aux
+INPUT elementos-textuais/computadores-e-a-pratica-cientifica.aux
 INPUT elementos-textuais/pensamento-computacional.aux
 INPUT elementos-textuais/pensamento-computacional.aux
 INPUT ./principal.brf
