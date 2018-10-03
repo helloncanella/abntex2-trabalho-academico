@@ -248,7 +248,6 @@ INPUT ./imagens/pipe.jpg
 INPUT imagens/vacas.png
 INPUT ./imagens/vacas.png
 INPUT ./imagens/vacas.png
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm
 INPUT imagens/planetario.png
 INPUT ./imagens/planetario.png
 INPUT ./imagens/planetario.png
@@ -264,6 +263,9 @@ INPUT ./imagens/recursividade.png
 INPUT imagens/babbage.jpg
 INPUT ./imagens/babbage.jpg
 INPUT ./imagens/babbage.jpg
+INPUT imagens/modelo_matematico.png
+INPUT ./imagens/modelo_matematico.png
+INPUT ./imagens/modelo_matematico.png
 INPUT principal.bbl
 INPUT principal.bbl
 INPUT principal.brf
@@ -278,11 +280,10 @@ INPUT elementos-textuais/pensamento-computacional.aux
 INPUT elementos-textuais/pensamento-computacional.aux
 INPUT ./principal.brf
 INPUT ./principal.brf
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb
