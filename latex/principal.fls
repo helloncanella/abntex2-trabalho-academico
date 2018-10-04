@@ -137,6 +137,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/rotating.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/backref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/backref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/abntex2/abntex2cite.sty
@@ -266,6 +268,9 @@ INPUT ./imagens/babbage.jpg
 INPUT imagens/modelo_matematico.png
 INPUT ./imagens/modelo_matematico.png
 INPUT ./imagens/modelo_matematico.png
+INPUT imagens/elos.png
+INPUT ./imagens/elos.png
+INPUT ./imagens/elos.png
 INPUT principal.bbl
 INPUT principal.bbl
 INPUT principal.brf
