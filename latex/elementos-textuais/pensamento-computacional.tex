@@ -7,7 +7,7 @@ A definição clássica que muitos autores dão para o conceito é extraído do 
 
 O desenvolvimento do tema requer algumas discussões preliminares. Comecemos com uma apresentação sobre o papel dos algoritmos.
 
-\section{Algoritmos}
+\section{Algoritmos}\label{sec:algoritmo}
 
 Em termos simplificados, um algoritmo nada mais é do que uma solução para um problema que satisfaz as seguintes condições \cite{Piwek2016}:
 
@@ -34,9 +34,11 @@ Na figura \ref{fig:algoritmo} lê-se um conjunto de instruções para somar trê
 
 Perceba como essas instruções satisfazem as condições elencadas anteriormente: nela vemos um problema (cálculo da soma de três número inteiros) sendo resolvido de forma encadeada ao longo de um processo finito. Nota-se também que os passos acima facultariam a soma de quaisquer outros três números inteiros, atendendo a exigência de ``resolver qualquer instância do problema''. 
 
-A tarefa de definir as instâncias de um problema equivale a delimitar qual é o seu escopo, ou seja, o alcance que uma possível solução deve atingir. Ao redigirmos um algoritmo para a divisão entre $a$ e $b$, por exemplo, deveríamos impor que ambos devem assumir quaisquer valores reais contanto que $b$ seja diferente de zero. Assim, ditamos os limites do problema, em outras palavras, as sua instâncias. Do ponto de vista da ciência da computação, ao procedermos dessa forma, distinguindo claramente os contornos de um problema, estamos definindo um ``problema computacional''.
+A tarefa de definir as instâncias de um problema equivale a determinar para quais perguntas um algoritmo deve oferecer respostas. Em problema de divisão, por exemplo, onde é preciso calcular a razão entre $a$ e $b$, o par $a=1.5$ e $b=9.365$ representa uma delas. Já $a=65.4$ e $b=77$ compõe outra. Numa única sentença podemos resumir que qualquer par de reais, onde $b\neq0$, representa uma instância válida. 
 
-A definição clara das instâncias do problema (criação de um problema computacional) e dos passos exatos para sua solução\footnote{Ao tratarmos computacionalmente um problema devemos ser capazes também de distinguir quando e porque, eventualmente, ele não tem solução.} (elaboração de um algoritmo) nos permitirá automatizar a sua execução por um computador. E é exatamente nessas duas habilidades, conforme definição dada anteriormente, que se apoiam o pensamento computacional.
+A decisão de usar um computador para a resolução de qualquer problema exige que definamos tais instâncias. Sob o ponto de vista da ciência computação, ao procedermos dessa forma, distinguindo claramente os contornos do problema, definimos um ``problema computacional''.  
+
+A definição clara das instâncias do problema (criação de um problema computacional) e dos passos exatos para sua solução\footnote{Ao tratarmos computacionalmente um problema devemos ser capazes também de distinguir quando e porque, eventualmente, ele não tem solução.} (elaboração de um algoritmo) nos permitirá automatizar a sua execução. E é exatamente nessas duas habilidades que se apoiam o pensamento computacional.
 
 \section{Abstração}
 
@@ -176,7 +178,7 @@ Comecemos com o conceito de modelo matemático.
 
 \subsection{Modelos matemáticos}
 
-O propósito da construção de modelos matemáticos se confunde com o da atividade científica:  entender e descrever fenômenos e o comportamento de sistemas em função de condições pré-estabelecidas.
+O propósito da construção de modelos matemáticos se confunde com o da atividade científica: entender e descrever fenômenos e o comportamento de sistemas em função de condições pré-estabelecidas.
  
 Na construção de tais modelos, busca-se investigar as regras de interação entre os componentes internos ao sistema investigado e como o ambiente externo influencia essas relações. Fixados alguns parametros, tenta-se entender qual é o papel da variação de alguns outros. Em muitos casos, o objetivo principal desse empreendimento é a formalização dessa descrição em equações matemáticas. Em outros, a validação de descrições já propostas. 
 
@@ -184,7 +186,7 @@ O surgimento do modelo matemático nasce portanto da consolidação das equaçõ
 
 Tanto na engenharia quanto nas ciências naturais, o uso de modelos matemáticos tem visado a construção de simulação computacionais. A adoção dessa estratégia favorece o entendimento do comportamento do sistema sob condições limites o que pode evitar, em alguns casos, a ocorrência de tragédias. Ao mesmo tempo, por oferecer um contexto que proporciona o ganho de \textit{insights}, o uso de simulação facilita o desenho de estratégias para otimização de recursos materiais e humanos. 
 
-Vemos na figura \ref{fig:modelo_matematico} uma esquema simplificado do elementos no desenho de um modelo matemático.
+A figura \ref{fig:modelo_matematico} torna explícita a proximidade entre a construção de um modelo matemático e a resolução de um problema computacional. Como definido na seção \ref{sec:algoritmo}, entende-se como problema computacional um conjunto de perguntas que um computador potencialmente  responder. A tarefa de resolver o problema computacional, como visto, se resumirá a construção de um algoritmo que leve a cada uma dessas respostas. Igualmente, as equações que compõe um modelo matemático tem como papel tecer uma associação entre um conjunto de parâmetros e uma configuração específica assumida pelo sistema sob observação. Nesse sentido, relações matemáticas e algoritmos cumprem a mesma finalidade.
 
 \begin{figure}[!htb]
 	\caption{Elementos de um modelos matemático}\label{fig:modelo_matematico}
@@ -192,6 +194,7 @@ Vemos na figura \ref{fig:modelo_matematico} uma esquema simplificado do elemento
 		\includegraphics[scale=0.50]{imagens/modelo_matematico}
 	\end{center}
 \end{figure}
+
 
 % De fato, ao permitir a formação de unidades representativas (ou módulos), o encapsulamento permitem ao que os dese
 

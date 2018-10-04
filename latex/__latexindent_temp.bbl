@@ -1,0 +1,97 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Djorgovski 2005]{Djorgovski2005}
+\abntrefinfo{Djorgovski}{DJORGOVSKI}{2005}
+{DJORGOVSKI, S. {Virtual Astronomy, Information Technology, and the New
+  Scientific Methodology}.
+\emph{Seventh International Workshop on Computer Architecture for Machine
+  Perception (CAMP'05)}, p. 125--132, 2005.
+Dispon{\'\i}vel em: \url{http://ieeexplore.ieee.org/document/1508175/}.}
+
+\bibitem[Escobar 2017]{Escobar}
+\abntrefinfo{Escobar}{ESCOBAR}{2017}
+{ESCOBAR, M. \emph{Artificial intelligence: here’s what you need to know to
+  understand how machines learn}. 2017.
+Dispon{\'\i}vel em:
+  \url{https://theconversation.com/artificial-intelligence-heres-what-you-need-to-know-to-understand-how-machines-learn-72004}.
+  Acesso em: 10 de Setembro de 2018.}
+
+\bibitem[Gough 1813]{Gough}
+\abntrefinfo{Gough}{GOUGH}{1813}
+{GOUGH, W.~A. J. \emph{Practical Arithmetic: In Four Books}. [S.l.: s.n.],
+  1813.}
+
+\bibitem[Hatch 1998]{Hatch}
+\abntrefinfo{Hatch}{HATCH}{1998}
+{HATCH, R.~A. \emph{Ptolemy's planetary models}. 1998.
+Dispon{\'\i}vel em:
+  \url{http://users.clas.ufl.edu/ufhatch/pages/03-Sci-Rev/SCI-REV-Home/resource-ref-read/chief-systems/08-0PTOL3-WSYS.html}.
+  Acesso em: 11 de Setembro de 2018.}
+
+\bibitem[Locke 1690/1979]{Locke}
+\abntrefinfo{Locke}{LOCKE}{1690/1979}
+{LOCKE, J. \emph{An essay concerning human understanding.} New York, NY, USA:
+  Oxford Univerty Press, 1690/1979.}
+
+\bibitem[Pathak et al. 2018]{PhysRevLett.120.024102}
+\abntrefinfo{Pathak et al.}{PATHAK et al.}{2018}
+{PATHAK, J. et al. Model-free prediction of large spatiotemporally chaotic
+  systems from data: A reservoir computing approach.
+\emph{Phys. Rev. Lett.}, American Physical Society, v.~120, p. 024102, Jan
+  2018.
+Dispon{\'\i}vel em:
+  \url{https://link.aps.org/doi/10.1103/PhysRevLett.120.024102}.}
+
+\bibitem[Piwek 2016]{Piwek2016}
+\abntrefinfo{Piwek}{PIWEK}{2016}
+{PIWEK, P. {Introduction to Computational Thinking}.
+2016.
+Dispon{\'\i}vel em: \url{http://doer.col.org/handle/123456789/6196}.}
+
+\bibitem[Sengupta et al. 2013]{Sengupta2013}
+\abntrefinfo{Sengupta et al.}{SENGUPTA et al.}{2013}
+{SENGUPTA, P. et al. {Integrating computational thinking with K-12 science
+  education using agent-based computation: A theoretical framework}.
+\emph{Education and Information Technologies}, v.~18, n.~2, p. 351--380, 2013.
+ISSN 13602357.}
+
+\bibitem[Verhage 2017]{Bloomberg}
+\abntrefinfo{Verhage}{VERHAGE}{2017}
+{VERHAGE, J. \emph{This Robot Said to Sell Facebook. Next Time It May Be
+  Right}. 2017.
+Dispon{\'\i}vel em:
+  \url{https://www.bloomberg.com/news/articles/2017-11-21/this-robot-said-to-sell-facebook-next-time-it-may-be-right}.
+  Acesso em: 11 de Setembro de 2018.}
+
+\bibitem[Vutha 2018]{Vutha}
+\abntrefinfo{Vutha}{VUTHA}{2018}
+{VUTHA, A. \emph{Could machine learning mean the end of understanding in
+  science?} 2018.
+Dispon{\'\i}vel em:
+  \url{https://theconversation.com/could-machine-learning-mean-the-end-of-understanding-in-science-98995}.
+  Acesso em: 10 de Setembro de 2018.}
+
+\bibitem[Weintrop et al. 2016]{Weintrop2016}
+\abntrefinfo{Weintrop et al.}{WEINTROP et al.}{2016}
+{WEINTROP, D. et al. {Defining Computational Thinking for Mathematics and
+  Science Classrooms}.
+\emph{Journal of Science Education and Technology}, Springer Netherlands,
+  v.~25, n.~1, p. 127--147, 2016.
+ISSN 15731839.}
+
+\bibitem[Wing 2006]{wing2006}
+\abntrefinfo{Wing}{WING}{2006}
+{WING, J. {Computational Thinking}.
+\emph{Commun. ACM}, ACM, New York, NY, USA, v.~49, n.~3, p. 33--35, 2006.}
+
+\bibitem[Wing 2008]{wing2008}
+\abntrefinfo{Wing}{WING}{2008}
+{WING, J. Computational thinking and thinking about computing.
+v.~366, p. 3717--25, 11 2008.}
+
+\end{thebibliography}
