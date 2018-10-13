@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: principal.aux
+The top-level auxiliary file: __latexindent_temp.aux
 A level-1 auxiliary file: elementos-textuais/computadores-e-a-pratica-cientifica.aux
 A level-1 auxiliary file: elementos-textuais/pensamento-computacional.aux
 A level-1 auxiliary file: elementos-textuais/implicacoes-educacionais.aux
@@ -37,7 +37,7 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 +---------------------------------------------------------+
 You've used 15 entries,
             6714 wiz_defined-function locations,
-            1307 strings with 12313 characters,
+            1307 strings with 12331 characters,
 and the built_in function-call counts, 23413 in all, are:
 = -- 2914
 > -- 293
