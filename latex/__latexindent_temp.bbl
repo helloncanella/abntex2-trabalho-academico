@@ -5,6 +5,14 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Abrahamson e Wilensky 2005]{ProbLab}
+\abntrefinfo{Abrahamson e Wilensky}{ABRAHAMSON; WILENSKY}{2005}
+{ABRAHAMSON, D.; WILENSKY, U. { Problab goes to school: design, teaching, and
+  learning of probability with multi-agent interactive computer models}.
+2005.
+Dispon{\'\i}vel em:
+  \url{https://ccl.northwestern.edu/2005/Abr+Wil\_CERME4.pdf}.}
+
 \bibitem[Djorgovski 2005]{Djorgovski2005}
 \abntrefinfo{Djorgovski}{DJORGOVSKI}{2005}
 {DJORGOVSKI, S. {Virtual Astronomy, Information Technology, and the New
@@ -32,6 +40,13 @@ Dispon{\'\i}vel em:
 Dispon{\'\i}vel em:
   \url{http://users.clas.ufl.edu/ufhatch/pages/03-Sci-Rev/SCI-REV-Home/resource-ref-read/chief-systems/08-0PTOL3-WSYS.html}.
   Acesso em: 11 de Setembro de 2018.}
+
+\bibitem[Lee et al. 2011]{Lee:2011:CTY:1929887.1929902}
+\abntrefinfo{Lee et al.}{LEE et al.}{2011}
+{LEE, I. et al. Computational thinking for youth in practice.
+\emph{ACM Inroads}, ACM, New York, NY, USA, v.~2, n.~1, p. 32--37, fev. 2011.
+ISSN 2153-2184.
+Dispon{\'\i}vel em: \url{http://doi.acm.org/10.1145/1929887.1929902}.}
 
 \bibitem[Locke 1690/1979]{Locke}
 \abntrefinfo{Locke}{LOCKE}{1690/1979}
@@ -91,6 +106,10 @@ Dispon{\'\i}vel em:
 \emph{Journal of Science Education and Technology}, Springer Netherlands,
   v.~25, n.~1, p. 127--147, 2016.
 ISSN 15731839.}
+
+\bibitem[Wilensky 1999]{netlogo}
+\abntrefinfo{Wilensky}{WILENSKY}{1999}
+{WILENSKY, U. \emph{Netlogo}. 1999. Http://ccl.northwestern.edu/netlogo/.}
 
 \bibitem[Wing 2006]{wing2006}
 \abntrefinfo{Wing}{WING}{2006}
