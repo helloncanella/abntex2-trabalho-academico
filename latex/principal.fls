@@ -276,6 +276,9 @@ INPUT ./imagens/elos.png
 OUTPUT elementos-textuais/implicacoes-educacionais.aux
 INPUT elementos-textuais/implicacoes-educacionais.tex
 INPUT elementos-textuais/implicacoes-educacionais.tex
+INPUT imagens/pressey.jpg
+INPUT ./imagens/pressey.jpg
+INPUT ./imagens/pressey.jpg
 INPUT principal.bbl
 INPUT principal.bbl
 INPUT principal.brf
