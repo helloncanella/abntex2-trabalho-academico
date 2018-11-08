@@ -60,6 +60,12 @@ Dispon{\'\i}vel em: \url{http://doi.acm.org/10.1145/1929887.1929902}.}
 {LOCKE, J. \emph{An essay concerning human understanding.} New York, NY, USA:
   Oxford Univerty Press, 1690/1979.}
 
+\bibitem[National Research Council 2010]{NRC}
+\abntrefinfo{National Research Council}{NATIONAL RESEARCH COUNCIL}{2010}
+{NATIONAL RESEARCH COUNCIL. \emph{Report of a workshop on the scope and nature
+  of computational thinking.} Washington, DC: The National Academies Press,
+  2010.}
+
 \bibitem[Oremus 2015]{pressey}
 \abntrefinfo{Oremus}{OREMUS}{2015}
 {OREMUS, W. \emph{The Fascinating, Mostly Failed History of “Teaching

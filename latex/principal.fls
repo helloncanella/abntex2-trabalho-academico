@@ -139,6 +139,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/rotating.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/rotating.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/backref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/backref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/abntex2/abntex2cite.sty
@@ -279,6 +281,7 @@ INPUT elementos-textuais/implicacoes-educacionais.tex
 INPUT imagens/pressey.jpg
 INPUT ./imagens/pressey.jpg
 INPUT ./imagens/pressey.jpg
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT principal.bbl
 INPUT principal.bbl
 INPUT principal.brf
@@ -295,10 +298,11 @@ INPUT elementos-textuais/implicacoes-educacionais.aux
 INPUT elementos-textuais/implicacoes-educacionais.aux
 INPUT ./principal.brf
 INPUT ./principal.brf
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb
