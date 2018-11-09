@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  8 NOV 2018 20:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  9 NOV 2018 13:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1024,7 +1024,11 @@ File: imagens/pressey.jpg Graphic file (type jpg)
 <use imagens/pressey.jpg>
 Package pdftex.def Info: imagens/pressey.jpg  used on input line 73.
 (pdftex.def)             Requested size: 414.54591pt x 185.49173pt.
- [21] [22 <./imagens/pressey.jpg>]) [23] [24] (./principal.bbl (./principal.brf)
+ [21] [22 <./imagens/pressey.jpg>]
+
+LaTeX Warning: Float too large for page by 312.80045pt on input line 196.
+
+) [23] [24] (./principal.bbl (./principal.brf)
 \tf@brf=\write6
 \openout6 = `principal.brf'.
 
@@ -1061,13 +1065,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 226.
 Here is how much of TeX's memory you used:
  17278 strings out of 492649
  262096 string characters out of 6129623
- 542493 words of memory out of 5000000
+ 553493 words of memory out of 5000000
  20633 multiletter control sequences out of 15000+600000
  77635 words of font info for 129 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,13n,41p,1014b,625s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on principal.pdf (27 pages, 3491278 bytes).
+Output written on principal.pdf (27 pages, 3492489 bytes).
 PDF statistics:
  545 PDF objects out of 1000 (max. 8388607)
  451 compressed objects within 5 object streams
