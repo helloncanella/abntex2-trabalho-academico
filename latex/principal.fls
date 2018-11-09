@@ -281,6 +281,8 @@ INPUT elementos-textuais/implicacoes-educacionais.tex
 INPUT imagens/pressey.jpg
 INPUT ./imagens/pressey.jpg
 INPUT ./imagens/pressey.jpg
+INPUT elementos-textuais/tabela-competencias-barr.tex
+INPUT elementos-textuais/tabela-competencias-barr.tex
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT principal.bbl
 INPUT principal.bbl
