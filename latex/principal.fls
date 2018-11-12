@@ -307,6 +307,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT imagens/scratch.jpg
 INPUT ./imagens/scratch.jpg
 INPUT ./imagens/scratch.jpg
+INPUT elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex
+INPUT elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex
 INPUT principal.bbl
 INPUT principal.bbl
 INPUT principal.brf
