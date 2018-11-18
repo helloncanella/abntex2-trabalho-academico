@@ -79,6 +79,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
 INPUT pacotes.tex
 INPUT pacotes.tex
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -309,6 +311,13 @@ INPUT ./imagens/scratch.jpg
 INPUT ./imagens/scratch.jpg
 INPUT elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex
 INPUT elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex
+INPUT elementos-textuais/facetas-pensamento-computacional.tex
+INPUT elementos-textuais/facetas-pensamento-computacional.tex
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmtt12.tfm
+INPUT imagens/babbage.jpg
+INPUT ./imagens/babbage.jpg
 INPUT principal.bbl
 INPUT principal.bbl
 INPUT principal.brf
@@ -342,3 +351,4 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss17.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt12.pfb

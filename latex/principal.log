@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  12 NOV 2018 11:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  18 NOV 2018 13:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -547,7 +547,13 @@ Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 \ABNTEXsignwidth=\skip259
 \ABNTEXsignthickness=\skip260
 \ABNTEXsignskip=\skip261
-) (./pacotes.tex (/usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+) (./pacotes.tex (/usr/local/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip262
+\multirow@cntb=\count174
+\multirow@dima=\skip263
+\bigstrutjot=\dimen157
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2018/04/08 v1.1 Adjusting TeX boxes (trim, clip, ...)
  (/usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
@@ -555,7 +561,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks26
 \XKV@tempa@toks=\toks27
 )
-\XKV@depth=\count174
+\XKV@depth=\count175
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (/usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
@@ -574,38 +580,38 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen157
-\Gin@req@width=\dimen158
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box30
 )
-\tc@llx=\dimen159
-\tc@lly=\dimen160
-\tc@urx=\dimen161
-\tc@ury=\dimen162
+\tc@llx=\dimen160
+\tc@lly=\dimen161
+\tc@urx=\dimen162
+\tc@ury=\dimen163
 Package trimclip Info: Using driver 'tc-pdftex.def'.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2018/04/08 v2.1 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen163
-\adjbox@Height=\dimen164
-\adjbox@Depth=\dimen165
-\adjbox@Totalheight=\dimen166
-\adjbox@pwidth=\dimen167
-\adjbox@pheight=\dimen168
-\adjbox@pdepth=\dimen169
-\adjbox@ptotalheight=\dimen170
+\adjbox@Width=\dimen164
+\adjbox@Height=\dimen165
+\adjbox@Depth=\dimen166
+\adjbox@Totalheight=\dimen167
+\adjbox@pwidth=\dimen168
+\adjbox@pheight=\dimen169
+\adjbox@pdepth=\dimen170
+\adjbox@ptotalheight=\dimen171
  (/usr/local/texlive/2018/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count175
+\c@checkoddpage=\count176
 LaTeX Info: Redefining \checkoddpage on input line 45.
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box31
-\sift@deathcycles=\count176
-\@vwid@loff=\dimen171
-\@vwid@roff=\dimen172
+\sift@deathcycles=\count177
+\@vwid@loff=\dimen172
+\@vwid@roff=\dimen173
 )) (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -662,37 +668,37 @@ Package color Info: Driver file: pdftex.def on input line 147.
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
 \MT@toks=\toks30
-\MT@count=\count177
+\MT@count=\count178
 LaTeX Info: Redefining \textls on input line 793.
-\MT@outer@kern=\dimen173
+\MT@outer@kern=\dimen174
 LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
-\MT@listname@count=\count178
+\MT@listname@count=\count179
  (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 913.
 LaTeX Info: Redefining \lslig on input line 913.
-\MT@outer@space=\skip262
+\MT@outer@space=\skip264
 )
 Package microtype Info: Loading configuration file microtype.cfg.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
 )) (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count179
+\lst@mode=\count180
 \lst@gtempboxa=\box32
 \lst@token=\toks31
-\lst@length=\count180
-\lst@currlwidth=\dimen174
-\lst@column=\count181
-\lst@pos=\count182
-\lst@lostspace=\dimen175
-\lst@width=\dimen176
-\lst@newlines=\count183
-\lst@lineno=\count184
-\lst@maxwidth=\dimen177
+\lst@length=\count181
+\lst@currlwidth=\dimen175
+\lst@column=\count182
+\lst@pos=\count183
+\lst@lostspace=\dimen176
+\lst@width=\dimen177
+\lst@newlines=\count184
+\lst@lineno=\count185
+\lst@maxwidth=\dimen178
  (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count185
-\lst@skipnumbers=\count186
+\c@lstnumber=\count186
+\lst@skipnumbers=\count187
 \lst@framebox=\box33
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
@@ -711,28 +717,28 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
  (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen178
-\captionmargin@=\dimen179
-\captionwidth=\dimen180
-\caption@tempdima=\dimen181
-\caption@indent=\dimen182
-\caption@parindent=\dimen183
-\caption@hangindent=\dimen184
+\captionmargin=\dimen179
+\captionmargin@=\dimen180
+\captionwidth=\dimen181
+\caption@tempdima=\dimen182
+\caption@indent=\dimen183
+\caption@parindent=\dimen184
+\caption@hangindent=\dimen185
 )
-\c@ContinuedFloat=\count187
+\c@ContinuedFloat=\count188
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 )
-\c@subfigure=\count188
-\c@subtable=\count189
+\c@subfigure=\count189
+\c@subtable=\count190
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/nomencl/nomencl.sty
 Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
-\nomlabelwidth=\dimen185
-\nom@tempdim=\dimen186
-\nomitemsep=\skip263
+\nomlabelwidth=\dimen186
+\nom@tempdim=\dimen187
+\nomitemsep=\skip265
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2017/09/02 v2.17a AMS math features
-\@mathmargin=\skip264
+\@mathmargin=\skip266
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -740,55 +746,55 @@ Package: amstext 2000/06/29 v2.01 AMS text
  (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks32
-\ex@=\dimen187
+\ex@=\dimen188
 )) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen188
+\pmbraise@=\dimen189
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count190
+\inf@bad=\count191
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count191
-\leftroot@=\count192
+\uproot@=\count192
+\leftroot@=\count193
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count193
-\DOTSCASE@=\count194
+\classnum@=\count194
+\DOTSCASE@=\count266
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box34
 \strutbox@=\box35
-\big@size=\dimen189
+\big@size=\dimen190
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count266
-\c@MaxMatrixCols=\count267
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
 \dotsspace@=\muskip11
-\c@parentequation=\count268
-\dspbrk@lvl=\count269
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
 \tag@help=\toks33
-\row@=\count270
-\column@=\count271
-\maxfields@=\count272
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
 \andhelp@=\toks34
-\eqnshift@=\dimen190
-\alignsep@=\dimen191
-\tagshift@=\dimen192
-\tagwidth@=\dimen193
-\totwidth@=\dimen194
-\lineht@=\dimen256
+\eqnshift@=\dimen191
+\alignsep@=\dimen192
+\tagshift@=\dimen193
+\tagwidth@=\dimen194
+\totwidth@=\dimen256
+\lineht@=\dimen257
 \@envbody=\toks35
-\multlinegap=\skip265
-\multlinetaggap=\skip266
+\multlinegap=\skip267
+\multlinetaggap=\skip268
 \mathdisplay@stack=\toks36
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count273
-\rotFPtop=\skip267
-\rotFPbot=\skip268
+\c@r@tfl@t=\count274
+\rotFPtop=\skip269
+\rotFPbot=\skip270
 \rot@float@box=\box36
 \rot@mess@toks=\toks37
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
@@ -798,20 +804,20 @@ Package: backref 2016/05/21 v1.39 Bibliographical back referencing
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/abntex2/abntex2cite.sty
 Package: abntex2cite 2016/02/26 v-1.9.6 abnTeX2
  (/usr/local/texlive/2018/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
-\minimumbiblabelwidth=\skip269
-\ABCIauxlen=\skip270
-\c@ABCIaux=\count274
-\c@ABCImax=\count275
+\minimumbiblabelwidth=\skip271
+\ABCIauxlen=\skip272
+\c@ABCIaux=\count275
+\c@ABCImax=\count276
  (/usr/local/texlive/2018/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
-\biblabelsep=\skip271
+\biblabelsep=\skip273
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
 \ABCItoken=\toks38
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count276
+\c@lips@count=\count277
 )) (./elementos-pretextuais/capa.tex)
 Package color Info: Redefining color blue on input line 44.
 Package hyperref Info: Option `colorlinks' set `true' on input line 61.
@@ -852,7 +858,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count277
+\c@section@level=\count278
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -864,19 +870,19 @@ LaTeX Info: Redefining \degres on input line 78.
 LaTeX Info: Redefining \dots on input line 78.
 LaTeX Info: Redefining \up on input line 78.
 \myptabbox=\box38
-\myptabboxwidth=\skip272
+\myptabboxwidth=\skip274
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count278
-\scratchdimen=\dimen257
+\scratchcounter=\count279
+\scratchdimen=\dimen258
 \scratchbox=\box39
-\nofMPsegments=\count279
-\nofMParguments=\count280
+\nofMPsegments=\count280
+\nofMParguments=\count281
 \everyMPshowfont=\toks39
-\MPscratchCnt=\count281
-\MPscratchDim=\dimen258
-\MPnumerator=\count282
-\makeMPintoPDFobject=\count283
+\MPscratchCnt=\count282
+\MPscratchDim=\dimen259
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
 \everyMPtoPDFconversion=\toks40
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -906,7 +912,7 @@ Package microtype Info: No adjustment of character kerning.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-\c@lstlisting=\count284
+\c@lstlisting=\count285
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1078,7 +1084,21 @@ File: imagens/scratch.jpg Graphic file (type jpg)
 <use imagens/scratch.jpg>
 Package pdftex.def Info: imagens/scratch.jpg  used on input line 122.
 (pdftex.def)             Requested size: 1027.8375pt x 664.48087pt.
- [23] [24 <./imagens/scratch.jpg>] (./elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex)) [25] [26] [27] [28] (./principal.bbl (./principal.brf)
+ [23] [24 <./imagens/scratch.jpg>] (./elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex) (./elementos-textuais/facetas-pensamento-computacional.tex
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 54.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [25]
+File: imagens/babbage.jpg Graphic file (type jpg)
+<use imagens/babbage.jpg>
+Package pdftex.def Info: imagens/babbage.jpg  used on input line 88.
+(pdftex.def)             Requested size: 136.50139pt x 91.06837pt.
+)) [26] [27] [28] [29] [30] (./principal.bbl (./principal.brf)
 \tf@brf=\write6
 \openout6 = `principal.brf'.
 
@@ -1093,19 +1113,19 @@ Overfull \hbox (23.59468pt too wide) in paragraph at lines 47--47
 \T1/lmr/m/n/12 (-20) arti^^\cial-[]intelligence-[]heres-[]what-[]you-[]need-[]to-[]know-[]to-[]understand-[]how-[]machines-[]learn-[]72004>[]$[][]. 
  []
 
-[29
+[31
 
 
 ]) 
 AED: lastpage setting LastPage
-[30]
+[32]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
  (./principal.aux (./elementos-textuais/computadores-e-a-pratica-cientifica.aux) (./elementos-textuais/pensamento-computacional.aux) (./elementos-textuais/implicacoes-educacionais.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 227.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 227.
 Package rerunfilecheck Info: File `principal.brf' has not changed.
-(rerunfilecheck)             Checksum: EC044FF5AC2E0B076E4A14DB027F2A25;3469.
+(rerunfilecheck)             Checksum: 0FC886881A019A05E9063FE438EB7D4C;3565.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1113,18 +1133,18 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 227.
  ) 
 Here is how much of TeX's memory you used:
- 18295 strings out of 492649
- 278889 string characters out of 6129623
- 567286 words of memory out of 5000000
- 21577 multiletter control sequences out of 15000+600000
- 78391 words of font info for 137 fonts, out of 8000000 for 9000
+ 18406 strings out of 492649
+ 280823 string characters out of 6129623
+ 581191 words of memory out of 5000000
+ 21670 multiletter control sequences out of 15000+600000
+ 78709 words of font info for 138 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,13n,94p,1014b,625s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on principal.pdf (31 pages, 3581283 bytes).
+ 65i,13n,94p,1147b,625s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on principal.pdf (33 pages, 3612023 bytes).
 PDF statistics:
- 625 PDF objects out of 1000 (max. 8388607)
- 513 compressed objects within 6 object streams
- 107 named destinations out of 1000 (max. 500000)
- 24225 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 655 PDF objects out of 1000 (max. 8388607)
+ 536 compressed objects within 6 object streams
+ 113 named destinations out of 1000 (max. 500000)
+ 24737 words of extra memory for PDF output out of 24883 (max. 10000000)
 
