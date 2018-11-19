@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  18 NOV 2018 13:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  19 NOV 2018 13:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1084,8 +1084,12 @@ File: imagens/scratch.jpg Graphic file (type jpg)
 <use imagens/scratch.jpg>
 Package pdftex.def Info: imagens/scratch.jpg  used on input line 122.
 (pdftex.def)             Requested size: 1027.8375pt x 664.48087pt.
- [23] [24 <./imagens/scratch.jpg>] (./elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex) (./elementos-textuais/facetas-pensamento-computacional.tex
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 54.
+ [23] [24 <./imagens/scratch.jpg>]
+
+LaTeX Warning: Reference `tab:facetas' on page 25 undefined on input line 152.
+
+(./elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex) (./elementos-textuais/facetas-pensamento-computacional.tex
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 72.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1093,12 +1097,22 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [25]
 File: imagens/babbage.jpg Graphic file (type jpg)
 <use imagens/babbage.jpg>
-Package pdftex.def Info: imagens/babbage.jpg  used on input line 88.
+Package pdftex.def Info: imagens/babbage.jpg  used on input line 83.
 (pdftex.def)             Requested size: 136.50139pt x 91.06837pt.
-)) [26] [27] [28] [29] [30] (./principal.bbl (./principal.brf)
+ [25] [26] [27] [28] [29]
+File: imagens/algorithm.png Graphic file (type png)
+<use imagens/algorithm.png>
+Package pdftex.def Info: imagens/algorithm.png  used on input line 99.
+(pdftex.def)             Requested size: 13.64944pt x 15.84311pt.
+File: imagens/babbage.jpg Graphic file (type jpg)
+<use imagens/babbage.jpg>
+Package pdftex.def Info: imagens/babbage.jpg  used on input line 109.
+(pdftex.def)             Requested size: 136.50139pt x 91.06837pt.
+ [30
+
+])) (./principal.bbl (./principal.brf)
 \tf@brf=\write6
 \openout6 = `principal.brf'.
 
@@ -1116,6 +1130,7 @@ Overfull \hbox (23.59468pt too wide) in paragraph at lines 47--47
 [31
 
 
+
 ]) 
 AED: lastpage setting LastPage
 [32]
@@ -1125,7 +1140,10 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 227.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 227.
 Package rerunfilecheck Info: File `principal.brf' has not changed.
-(rerunfilecheck)             Checksum: 0FC886881A019A05E9063FE438EB7D4C;3565.
+(rerunfilecheck)             Checksum: 104E1776483D1899AB36AD7E307837D5;3469.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1133,18 +1151,18 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 227.
  ) 
 Here is how much of TeX's memory you used:
- 18406 strings out of 492649
- 280823 string characters out of 6129623
- 581191 words of memory out of 5000000
- 21670 multiletter control sequences out of 15000+600000
+ 18410 strings out of 492649
+ 280847 string characters out of 6129623
+ 570898 words of memory out of 5000000
+ 21676 multiletter control sequences out of 15000+600000
  78709 words of font info for 138 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,13n,94p,1147b,625s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,19n,94p,1147b,625s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on principal.pdf (33 pages, 3612023 bytes).
+Output written on principal.pdf (33 pages, 3606648 bytes).
 PDF statistics:
- 655 PDF objects out of 1000 (max. 8388607)
- 536 compressed objects within 6 object streams
- 113 named destinations out of 1000 (max. 500000)
+ 643 PDF objects out of 1000 (max. 8388607)
+ 528 compressed objects within 6 object streams
+ 111 named destinations out of 1000 (max. 500000)
  24737 words of extra memory for PDF output out of 24883 (max. 10000000)
 

@@ -318,6 +318,10 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmtt12.tfm
 INPUT imagens/babbage.jpg
 INPUT ./imagens/babbage.jpg
+INPUT imagens/algorithm.png
+INPUT ./imagens/algorithm.png
+INPUT imagens/babbage.jpg
+INPUT ./imagens/babbage.jpg
 INPUT principal.bbl
 INPUT principal.bbl
 INPUT principal.brf
