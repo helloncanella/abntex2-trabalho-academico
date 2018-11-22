@@ -313,17 +313,12 @@ INPUT elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex
 INPUT elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex
 INPUT elementos-textuais/facetas-pensamento-computacional.tex
 INPUT elementos-textuais/facetas-pensamento-computacional.tex
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmmi10.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
 INPUT imagens/rollerecoster.png
 INPUT ./imagens/rollerecoster.png
 INPUT ./imagens/rollerecoster.png
 INPUT imagens/roller-coster-kinectic.jpeg
 INPUT ./imagens/roller-coster-kinectic.jpeg
 INPUT ./imagens/roller-coster-kinectic.jpeg
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
 INPUT principal.bbl
 INPUT principal.bbl
 INPUT principal.brf
