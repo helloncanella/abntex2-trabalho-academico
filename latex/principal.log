@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  23 NOV 2018 01:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.9)  25 NOV 2018 11:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1084,18 +1084,8 @@ File: imagens/scratch.jpg Graphic file (type jpg)
 <use imagens/scratch.jpg>
 Package pdftex.def Info: imagens/scratch.jpg  used on input line 122.
 (pdftex.def)             Requested size: 1027.8375pt x 664.48087pt.
- [23] [24 <./imagens/scratch.jpg>] [25] [26] [27] [28]
-<imagens/taxonomia.png, id=437, 902.37125pt x 370.38374pt>
-File: imagens/taxonomia.png Graphic file (type png)
-<use imagens/taxonomia.png>
-Package pdftex.def Info: imagens/taxonomia.png  used on input line 176.
-(pdftex.def)             Requested size: 631.65558pt x 259.26685pt.
- [29
-
- <./imagens/taxonomia.png>] (./elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex) (./elementos-textuais/facetas-pensamento-computacional.tex [30
-
-]
-<imagens/rollerecoster.png, id=460, 242.9075pt x 153.57375pt>
+ [23] [24 <./imagens/scratch.jpg>] (./elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex) (./elementos-textuais/facetas-pensamento-computacional.tex [25] [26] [27] [28]
+<imagens/rollerecoster.png, id=440, 242.9075pt x 153.57375pt>
 File: imagens/rollerecoster.png Graphic file (type png)
 <use imagens/rollerecoster.png>
 Package pdftex.def Info: imagens/rollerecoster.png  used on input line 12.
@@ -1104,7 +1094,7 @@ Package pdftex.def Info: imagens/rollerecoster.png  used on input line 12.
 Overfull \vbox (64.27666pt too high) detected at line 12
  []
 
-<imagens/roller-coster-kinectic.jpeg, id=461, 316.18124pt x 160.6pt>
+<imagens/roller-coster-kinectic.jpeg, id=441, 316.18124pt x 160.6pt>
 File: imagens/roller-coster-kinectic.jpeg Graphic file (type jpg)
 <use imagens/roller-coster-kinectic.jpeg>
 Package pdftex.def Info: imagens/roller-coster-kinectic.jpeg  used on input line 17.
@@ -1113,9 +1103,26 @@ Package pdftex.def Info: imagens/roller-coster-kinectic.jpeg  used on input line
 Overfull \vbox (82.62997pt too high) detected at line 17
  []
 
-[31
 
- <./imagens/rollerecoster.png> <./imagens/roller-coster-kinectic.jpeg>])) (./principal.bbl (./principal.brf)
+Overfull \hbox (282.3747pt too wide) in paragraph at lines 25--25
+[] [] 
+ []
+
+[29
+
+ <./imagens/rollerecoster.png> <./imagens/roller-coster-kinectic.jpeg>]) [30
+
+]
+<imagens/taxonomia.png, id=461, 902.37125pt x 370.38374pt>
+File: imagens/taxonomia.png Graphic file (type png)
+<use imagens/taxonomia.png>
+Package pdftex.def Info: imagens/taxonomia.png  used on input line 181.
+(pdftex.def)             Requested size: 631.65558pt x 259.26685pt.
+ [31
+
+ <./imagens/taxonomia.png>]) [32
+
+] (./principal.bbl (./principal.brf)
 \tf@brf=\write6
 \openout6 = `principal.brf'.
 
@@ -1130,20 +1137,19 @@ Overfull \hbox (23.59468pt too wide) in paragraph at lines 47--47
 \T1/lmr/m/n/12 (-20) arti^^\cial-[]intelligence-[]heres-[]what-[]you-[]need-[]to-[]know-[]to-[]understand-[]how-[]machines-[]learn-[]72004>[]$[][]. 
  []
 
-[32
-
+[33
 
 
 ]) 
 AED: lastpage setting LastPage
-[33]
+[34]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
  (./principal.aux (./elementos-textuais/computadores-e-a-pratica-cientifica.aux) (./elementos-textuais/pensamento-computacional.aux) (./elementos-textuais/implicacoes-educacionais.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 227.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 227.
 Package rerunfilecheck Info: File `principal.brf' has not changed.
-(rerunfilecheck)             Checksum: B642E2C2E87EA2C0E19F1C12617775D3;3577.
+(rerunfilecheck)             Checksum: D273BD4D6C027B550C7D829968FF0255;3631.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1151,18 +1157,18 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 227.
  ) 
 Here is how much of TeX's memory you used:
- 18387 strings out of 492649
- 280637 string characters out of 6129623
- 567244 words of memory out of 5000000
- 21645 multiletter control sequences out of 15000+600000
+ 18391 strings out of 492649
+ 280681 string characters out of 6129623
+ 568244 words of memory out of 5000000
+ 21647 multiletter control sequences out of 15000+600000
  78603 words of font info for 139 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,20n,94p,1148b,625s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,20n,94p,1148b,701s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on principal.pdf (34 pages, 3672686 bytes).
+Output written on principal.pdf (35 pages, 3676077 bytes).
 PDF statistics:
- 665 PDF objects out of 1000 (max. 8388607)
- 541 compressed objects within 6 object streams
- 116 named destinations out of 1000 (max. 500000)
- 24240 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 676 PDF objects out of 1000 (max. 8388607)
+ 551 compressed objects within 6 object streams
+ 118 named destinations out of 1000 (max. 500000)
+ 24248 words of extra memory for PDF output out of 24883 (max. 10000000)
 

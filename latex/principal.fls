@@ -309,9 +309,6 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT imagens/scratch.jpg
 INPUT ./imagens/scratch.jpg
 INPUT ./imagens/scratch.jpg
-INPUT imagens/taxonomia.png
-INPUT ./imagens/taxonomia.png
-INPUT ./imagens/taxonomia.png
 INPUT elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex
 INPUT elementos-textuais/tabela-dez-competencias-pensamento-computacional.tex
 INPUT elementos-textuais/facetas-pensamento-computacional.tex
@@ -322,6 +319,9 @@ INPUT ./imagens/rollerecoster.png
 INPUT imagens/roller-coster-kinectic.jpeg
 INPUT ./imagens/roller-coster-kinectic.jpeg
 INPUT ./imagens/roller-coster-kinectic.jpeg
+INPUT imagens/taxonomia.png
+INPUT ./imagens/taxonomia.png
+INPUT ./imagens/taxonomia.png
 INPUT principal.bbl
 INPUT principal.bbl
 INPUT principal.brf
