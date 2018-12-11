@@ -77,6 +77,14 @@ Dispon{\'\i}vel em: \url{http://doi.acm.org/10.1145/1929887.1929902}.}
 {LOCKE, J. \emph{An essay concerning human understanding.} New York, NY, USA:
   Oxford Univerty Press, 1690/1979.}
 
+\bibitem[Maloney et al. 2008]{Maloney}
+\abntrefinfo{Maloney et al.}{MALONEY et al.}{2008}
+{MALONEY, J.~H. et al. Programming by choice: urban youth learning programming
+  with scratch.
+ACM, p. 367--371, 2008.
+Dispon{\'\i}vel em:
+  \url{http://dblp.uni-trier.de/db/conf/sigcse/sigcse2008.html\#MaloneyPKRR08}.}
+
 \bibitem[National Research Council 2010]{NRC}
 \abntrefinfo{National Research Council}{NATIONAL RESEARCH COUNCIL}{2010}
 {NATIONAL RESEARCH COUNCIL. \emph{Report of a workshop on the scope and nature
